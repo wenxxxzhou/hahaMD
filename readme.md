@@ -17,12 +17,14 @@
 17 APP综合 <br>
 18 APP动画 <br>
 
+___
+
 #### 《影视资料》 ####
 
 烂番茄
 https://www.rottentomatoes.com/
 
-imdb
+IMDB
 https://www.imdb.com/?ref_=nv_home
 
 火星影剧
@@ -76,7 +78,7 @@ https://susuifa.com/
 7080影视搜
 http://7080.wang/
 
-cupfox茶杯壶
+CUPFOX茶杯壶
 https://cupfox.app
 
 电影狗
@@ -89,10 +91,10 @@ http://www.yszy5.com/
 https://soupian.xyz/
 
 大米星球
-https://dmxq6.com/
-https://dami2.me/
-https://dami3.me/
-https://dami4.me/
+https://dmxq6.com/ <br>
+https://dami2.me/ <br>
+https://dami3.me/ <br>
+https://dami4.me/ <br>
 
 4k影视
 https://www.4kvm.com/
@@ -114,34 +116,34 @@ https://www.pkmp4.com/
 
 厂长资源
 https://www.CZZY.TV
-https://CZSPP.COM/
-https://C-ZZY.COM
-https://CZZZU.COM
+https://CZSPP.COM/ <br>
+https://C-ZZY.COM <br>
+https://CZZZU.COM <br>
 
 电影先生
-https://dyxs20.com/
-http://DianYingim.com
-http://DianYing.in
-http://dyxs11.com
-http://dyxs12.com
-http://dyxs13.com
-http://dyxs14.com
-http://dyxs15.com
-http://dyxs6.xyz
-http://dyxs7.xyz
-http://dyxs8.xyz
-http://dyxs9.xyz
+https://dyxs20.com/ <br>
+http://DianYingim.com <br>
+http://DianYing.in <br>
+http://dyxs11.com <br>
+http://dyxs12.com <br>
+http://dyxs13.com <br>
+http://dyxs14.com <br>
+http://dyxs15.com <br>
+http://dyxs6.xyz <br>
+http://dyxs7.xyz <br>
+http://dyxs8.xyz <br>
+http://dyxs9.xyz <br>
 
 热点影院
 https://m.rediandy.com/
 
 嘀哩影视
-https://www.bdys01.com/
-http://bdys.me
+https://www.bdys01.com/ <br>
+http://bdys.me <br>
 
 电影港
-http://www.dygangs.com/
-https://www.dygang.tv
+http://www.dygangs.com/ <br>
+https://www.dygang.tv <br>
 
 
 #### 《综合在线》 ####
@@ -156,19 +158,19 @@ https://www.subaibaiys.com/
 http://www.8kvod.com/
 
 4K鸭奈飞
-https://yanetflix.com/
-https://yanetflix.tv/
+https://yanetflix.com/ <br>
+https://yanetflix.tv/ <br>
 
 大师兄影视
-https://dsxys.com/
-https://dsxys.pro/
+https://dsxys.com/ <br>
+https://dsxys.pro/ <br>
 
 555电影
-https://www.o8tv.com/
-https://www.5dy1.cc/
-https://www.5dy2.cc/
-https://www.5dy3.cc/
-https://www.5dy4.cc/
+https://www.o8tv.com/ <br>
+https://www.5dy1.cc/ <br>
+https://www.5dy2.cc/ <br>
+https://www.5dy3.cc/ <br>
+https://www.5dy4.cc/ <br>
 
 剧迷
 https://gimy.app/
@@ -177,25 +179,25 @@ https://gimy.app/
 https://xmmi.xyz/
 
 低端影视
-https://ddys.tv/
-https://ddys2.me/
+https://ddys.tv/ <br>
+https://ddys2.me/ <br>
 
 霹雳影视
-http://www.plyingshi.com
-http://www.plyingshi.xyz
+http://www.plyingshi.com <br>
+http://www.plyingshi.xyz <br>
 
 柠柚影视
 https://mh.e4tv.cn/
 
 可乐影视
-https://www.klyingshi.com/
-https://klys001.xyz
-https://klys002.xyz
+https://www.klyingshi.com/ <br>
+https://klys001.xyz <br>
+https://klys002.xyz <br>
 
 看了么电影网
 https://www.ksksl.com/
 
-dandanzan影视
+DANDANZAN影视
 https://www.dandanzan10.top/
 
 努努影视
@@ -205,8 +207,8 @@ https://www.nunuyy3.org/
 #### 《综合下载》 ####
 
 音范丝影音集
-https://www.yinfans.me/
-https://www.yinfans.net/
+https://www.yinfans.me/ <br>
+https://www.yinfans.net/ <br>
 
 分派电影//已关站 纪念//
 https://ifenpaidy.com/
@@ -215,16 +217,16 @@ https://ifenpaidy.com/
 https://t-rex.tzfile.com/
 
 RARGB
-https://rarbgaccess.org/torrents.php
-https://rarbgmirror.org/torrents.php
-https://rarbgmirror.com/index70.php
-http://rarbgmirror.org/index70.php
-http://rarbg2018.org/torrents.php
+https://rarbgaccess.org/torrents.php <br>
+https://rarbgmirror.org/torrents.php <br>
+https://rarbgmirror.com/index70.php <br>
+http://rarbgmirror.org/index70.php <br>
+http://rarbg2018.org/torrents.php <br>
 
 bt1207
-https://ibt120701.xyz/
-https://bt1207fb.top/
-https://bt1207ai.top/
+https://ibt120701.xyz/ <br>
+https://bt1207fb.top/ <br>
+https://bt1207ai.top/ <br>
 
 CHAOSPACE
 https://www.chaospace.fun/
@@ -233,8 +235,8 @@ https://www.chaospace.fun/
 https://www.dytt8.net/index.html
 
 BT之家
-https://www.btbtt15.com/
-https://btbtt12.com/
+https://www.btbtt15.com/ <br>
+https://btbtt12.com/ <br>
 
 MP4电影
 https://www.domp4.cc/
@@ -279,8 +281,8 @@ https://www.cilixiong.com/
 http://gaoqing.la/
 
 七汉电影
-https://www.7meiju.com
-http://www.77meiju.com
+https://www.7meiju.com <br>
+http://www.77meiju.com <br>
 
 80S电影网
 https://www.80sgod.com/
@@ -301,8 +303,8 @@ https://www.meijutt.cc/
 #### 《电视剧在线》 ####
 
 极客影院
-http://i8k.cc
-http://www.i4k.cc
+http://i8k.cc <br>
+http://www.i4k.cc <br>
 
 NO视频
 https://www.novipnoad.com/
@@ -332,9 +334,9 @@ https://gaoqing.fm/
 #### 《动画在线下载》 ####
 
 age动漫
-https://agefans.org/
-http://www.agedm6.com/
-http://www.agefans.top/
+https://agefans.org/ <br>
+http://www.agedm6.com/ <br>
+http://www.agefans.top/ <br>
 
 迅播动漫
 https://www.xbdm.org/
@@ -343,8 +345,8 @@ https://www.xbdm.org/
 http://www.silisili.in/
 
 妮可动漫
-http://www.nicotv.biz/
-http://www.nicotv.me/
+http://www.nicotv.biz/ <br>
+http://www.nicotv.me/ <br>
 
 异世界动漫
 http://www.ysjdm.com/
@@ -353,16 +355,16 @@ http://www.ysjdm.com/
 #### 《动画在线》 ####
 
 樱花动漫
-http://www.imomoe.ai/
-http://www.imomoe.in/
-http://m.yhdm.io/
-http://www.imomoe.live/
-http://www.yinghuacd.com/
+http://www.imomoe.ai/ <br>
+http://www.imomoe.in/ <br>
+http://m.yhdm.io/ <br>
+http://www.imomoe.live/ <br>
+http://www.yinghuacd.com/ <br>
 
 E站
-https://www.hdddex.com/
-http://www.edddh2.com
-http://www.edddm.com
+https://www.hdddex.com/ <br>
+http://www.edddh2.com <br>
+http://www.edddm.com <br>
 
 风车动漫
 http://m.37ws.com/
@@ -374,8 +376,8 @@ https://www.kk151.com/
 https://dilidili.online/
 
 奇米奇米
-http://www.qimiqimi.net/
-http://www.qimiqimi.com/
+http://www.qimiqimi.net/ <br>
+http://www.qimiqimi.com/ <br>
 
 咪哩咪哩
 http://www.milimili.tv/
@@ -393,22 +395,23 @@ http://www.tucao.one/index.html
 http://www.dmdm2020.com/
 
 九九动漫
-http://www.995dm.com/
-http://dm55.cc/
+http://www.995dm.com/ <br>
+http://dm55.cc/ <br>
 
 
 #### 《动画下载》 ####
 
-http://www.comicat.org/
-http://www.miobt.com/
-http://www.kisssub.org/
+猫漫
+http://www.comicat.org/ <br>
+http://www.miobt.com/ <br>
+http://www.kisssub.org/ <br>
 
 ACGRIP
 https://acg.rip
 
 简单动漫
-https://www.36dm.com/
-http://36dm.club
+https://www.36dm.com/ <br>
+http://36dm.club <br>
 
 动漫花园资源网
 https://www.dongmanhuayuan.com/
@@ -432,8 +435,8 @@ http://www.kisssub.org/
 https://share.acgnx.se/
 
 动漫花园
-http://www.dmhy.org/
-https://share.dmhy.org/
+http://www.dmhy.org/ <br>
+https://share.dmhy.org/ <br>
 
 NYAA
 https://nyaa.si/
@@ -460,9 +463,7 @@ http://www.kissacg.org/
 http://www.soulbt.cn/
 
 subs:
-http://www.moviesubtitles.org/
-https://subscene.com/
-https://www.opensubtitles.org/zh
+http://www.moviesubtitles.org/ <br>
 
 
 #### 《字幕下载》 ####
@@ -471,8 +472,16 @@ https://www.opensubtitles.org/zh
 http://www.ddzimu.com/
 
 字幕库
-http://zimuku.org/
-http://zimuku.pw/
+http://zimuku.org/ <br>
+http://zimuku.pw/ <br>
+https://zmk.pw/ <br>
+
+SUBHD
+https://subhd.tv/ <br>
+https://subhd.la <br>
+https://subhd.cc <br>
+https://subhdtw.com <br>
+https://subhd.me <br>
 
 ACG字幕
 https://bbs.acgrip.com/
@@ -488,6 +497,9 @@ https://www.a4k.net/
 
 R3字幕
 https://www.r3sub.com
+
+SUBSCENE
+https://subscene.com/
 
 OPENSUBTITLES字幕
 https://www.opensubtitles.org/zh
@@ -591,22 +603,24 @@ https://meijuxingqiu.net/
 
 #### 《APP动画》 ####
 
-clicli动漫
+CLICLI动漫
 https://clicli.app/
 
-ZzzFun
+ZZZFUN
 https://zzz-1251249846.file.myqcloud.com/index.html
 
 
 # 仅为个人使用 #
 # 请勿相信链接内任何广告 #
 
+___
+
 #### 《音乐解锁》 ####
 
 https://mp3.aoleiao.com/ <br>
 https://unlock-music-ix.netlify.app/ <br>
 https://github.com/unlock-music/ <br>
-https://tool.whgpc.com/Tools/unlockmusic/  <br>
+https://tool.whgpc.com/Tools/unlockmusic/ <br>
 
 #### 《音乐下载》 ####
 
@@ -625,12 +639,11 @@ https://music.y444.cn/#/
 searX
 https://searx.space/
 
-
-invidious，ytb镜像列表
-https://invidious.io/
-
-invidious，ytb项目
+invidious_ytb
 https://github.com/iv-org/invidious
+
+invidious_ytb-list
+https://invidious.io/
 
 twi_mirror-list
 https://github.com/zedeus/nitter/wiki/Instances
@@ -658,7 +671,7 @@ https://goo.xbzxs.org/ <br>
 
 #### 《twi》 ####
 
-https://nitter.garudalinux.org/ <br>
+https://nitter.garudalinux.org/
 
 
 #### 《阿》 ####
@@ -667,8 +680,8 @@ RYZEN
 https://ryzen.cc/
 
 阿虚同学
-https://axutongxue.com/
-https://axutongxue.net/
+https://axutongxue.com/ <br>
+https://axutongxue.net/ <br>
 
 423DOWN
 https://www.423down.com/
@@ -682,10 +695,10 @@ https://steampp.net/
 邮莓
 https://mailberry.com.cn/
 
-押本佑二 ： yuji oshimoto / 04@dsg4.com
-http://04.jp.org/
-http://www.samohung.jp/
-http://www.dsg4.com/04/extra/index.html
+押本佑二（yuji oshimoto|04@dsg4.com）
+http://04.jp.org/ <br>
+http://www.samohung.jp/ <br>
+http://www.dsg4.com/04/extra/index.html <br>
 
 
 #### 《气象&地》 ####
@@ -718,9 +731,9 @@ https://news.ceic.ac.cn/
 #### 《电子书》 ####
 
 Z镜像1
-https://v3.zhelper.net/
-https://www.zhelper.net/
-https://z.yibook.org/
+https://v3.zhelper.net/ <br>
+https://www.zhelper.net/ <br>
+https://z.yibook.org/ <br>
 
 Z镜像2
 https://looks.wang/g.html
@@ -738,9 +751,9 @@ https://xmsoushu.com/#/
 https://books.andrewjr.workers.dev/0:/
 
 （伴）
-https://www.bandubook.com/
-https://pup6.yunzhan365.com/
-https://ebook.hep.com.cn/ebooks/index.html#/
+https://www.bandubook.com/ <br>
+https://pup6.yunzhan365.com/ <br>
+https://ebook.hep.com.cn/ebooks/index.html#/ <br>
 
 译言古登堡计划
 http://g.yeeyan.org/
@@ -748,9 +761,9 @@ http://g.yeeyan.org/
 #### 《资料等》 ####
 
 MAXZYWK
-https://www.marxists.org/chinese/index.html
-https://marxists.architexturez.net/chinese/index.html
-https://marxists.wikis.cc/chinese/index.html
+https://www.marxists.org/chinese/index.html <br>
+https://marxists.architexturez.net/chinese/index.html <br>
+https://marxists.wikis.cc/chinese/index.html <br>
 
 DAVID-AIREY
 https://www.davidairey.com/
@@ -812,10 +825,10 @@ PIXEL-GIF
 https://pixelgif.cn/
 
 PIXIV
-https://www.pixiv.net/
-https://pxvr.xyz/
-https://pixivic.com/
-https://pixiv.moe/
+https://www.pixiv.net/ <br>
+https://pxvr.xyz/ <br>
+https://pixivic.com/ <br>
+https://pixiv.moe/ <br>
 
 ARTSTATION
 https://www.artstation.com/
@@ -855,8 +868,6 @@ https://www.everypixel.com/
 插画：
 https://saucenao.com/ <br>
 https://3d.iqdb.org/ <br>
-
-
 
 # 仅为个人使用 #
 # 请勿相信链内任何广告 #
