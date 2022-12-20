@@ -476,6 +476,14 @@ http://www.ddzimu.com/
 字幕库
 http://zimuku.org/ <br>
 http://zimuku.pw/ <br>
+https://zmk.pw/ <br>
+
+SUBHD
+https://subhd.tv/ <br>
+https://subhd.la <br>
+https://subhd.cc <br>
+https://subhdtw.com <br>
+https://subhd.me <br>
 
 ACG字幕
 https://bbs.acgrip.com/
@@ -491,6 +499,9 @@ https://www.a4k.net/
 
 R3字幕
 https://www.r3sub.com
+
+SUBSCENE
+https://subscene.com/
 
 OPENSUBTITLES字幕
 https://www.opensubtitles.org/zh
