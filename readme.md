@@ -34,7 +34,7 @@ https://www.huo720.com/
 ### 《字幕组&发布》 ###
 
 亿万同人字幕组
-http://ywtrzm.com/
+http://ywtrzmz.net/
 
 
 弯弯字幕组
@@ -147,6 +147,10 @@ https://www.dygang.tv <br>
 
 
 #### 《综合在线》 ####
+
+LIBVIO
+https://libvio.me/ <br>
+https://libvio.fun/ <br>
 
 回响影视
 https://hxys.tv/
