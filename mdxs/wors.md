@@ -467,7 +467,7 @@ http://www.kissacg.org/
 http://www.soulbt.cn/
 
 subs:
-- http://www.moviesubtitles.org/
+1. http://www.moviesubtitles.org/
 
 
 ### 《字幕下载》
@@ -675,7 +675,14 @@ https://zh.wikipedia.wmmirror.live/wiki
 
 #### 《twi》
 
-https://nitter.garudalinux.org/
+1. https://nitter.freedit.eu/
+2. https://ntr.frail.duckdns.org/
+3. https://nitter.ktachibana.party/
+4. https://nitter.riverside.rocks/
+5. https://nitter.platypush.tech/
+6. https://nitter.pufe.org/
+7. https://nitter.arcticfoxes.net/
+8. https://nitter.eu.projectsegfau.lt/
 
 
 #### 《阿》
@@ -704,6 +711,8 @@ https://mailberry.com.cn/
 - http://www.samohung.jp/
 - http://www.dsg4.com/04/extra/index.html
 
+请谨慎辨别：
+https://www.oyunfor.com/
 
 #### 《气象&地》
 
@@ -735,9 +744,9 @@ https://news.ceic.ac.cn/
 #### 《电子书》
 
 Z镜像1
-1. https://v3.zhelper.net/
-2. https://www.zhelper.net/
-3. https://z.yibook.org/
+- https://v3.zhelper.net/
+- https://www.zhelper.net/
+- https://z.yibook.org/
 
 Z镜像2
 https://looks.wang/g.html
