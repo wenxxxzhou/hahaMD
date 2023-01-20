@@ -41,7 +41,7 @@ http://ywtrzmz.net/
 http://www.wanwansub.com/
 
 
-fix字幕侠
+FIX字幕侠
 http://www.zimuxia.cn/
 
 
@@ -55,7 +55,7 @@ https://www.huanyuezmz.site/
 https://subs.kamigami.org/category/drama
 
 
-东京不够热sub
+东京不够热SUB
 https://www.tokyonothot.com/
 
 深影字幕组
