@@ -605,6 +605,9 @@ http://hh01.vip/
 美剧星球
 https://meijuxingqiu.net/
 
+乐看视频
+https://lekan.app/
+
 ### 《APP动画》
 
 CLICLI动漫
@@ -770,6 +773,62 @@ https://books.andrewjr.workers.dev/0:/
 
 译言古登堡计划
 http://g.yeeyan.org/
+
+LOREFREE去中心化免费电子书共享社区
+https://ebook2.lorefree.com/
+
+好读
+https://www.haodoo.net/
+
+THEFUTURE书籍搜索
+https://bks.thefuture.top/
+
+无名图书
+https://www.book123.info/
+
+读库
+https://readhub.one/
+
+莫若书单
+https://www.mrsd.top/
+
+快吧
+http://www.fast8.cc/list/6_1.html
+
+淘链客
+https://toplinks.cc/s/
+
+阅读链
+https://www.yuedu.pro/
+
+书行天下
+https://www.sxpdf.com/
+
+爱悦读
+https://www.iyd.wang/
+
+天浪书屋
+https://www.tianlangbooks.com/
+
+IT业界网
+https://emebao.com/
+
+我爱书籍
+https://1.52book.me/
+
+书籍知识库
+https://www.zhishikoo.com/
+
+78电子书库
+http://www.78books.com/
+
+多阅读
+https://moreread.me/
+
+考神杂志馆（收费）
+https://kaoshenzazhi.com/
+
+
 
 #### 《资料等》
 
