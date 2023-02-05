@@ -593,28 +593,39 @@ ShinY_Sub
 
 新片来了
 
+#### APPSET12
+
+1. https://wwr.lanzoui.com/b03vrwclc
+2. ciyt
 
 ### 《APP综合》
 
 影视森林
-https://yssenlin.app/
+- https://yssenlin.app/
+- https://wwt.lanzouw.com/senlin
 
 花火视频
 http://hh01.vip/
 
+乐看视频
+https://lekan.app/
+
 美剧星球
 https://meijuxingqiu.net/
 
-乐看视频
-https://lekan.app/
 
 ### 《APP动画》
 
 CLICLI动漫
-https://clicli.app/
+- www.clicli.app
+- www.clicli.fun
+- www.clicli.lol
+- www.clicli.org
+- www.clicli.pro
 
 ZZZFUN
-https://zzz-1251249846.file.myqcloud.com/index.html
+- http://www.zzzfun.vip/
+- https://zzz-1251249846.file.myqcloud.com/index.html
 
 
 # *仅为个人使用*
