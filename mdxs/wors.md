@@ -725,8 +725,44 @@ https://mailberry.com.cn/
 - http://www.samohung.jp/
 - http://www.dsg4.com/04/extra/index.html
 
-请谨慎辨别：
-https://www.oyunfor.com/
+第三方礼品卡：
+- https://www.oyunfor.com/
+
+APP分享
+https://appshare.vip/
+
+MALAVIDA
+https://www.malavida.com/es/android/
+
+### 安全
+
+VIRUSTOTAL（650MB？）
+https://www.virustotal.com/gui/home/upload
+
+JOTTI（250MB？）
+https://virusscan.jotti.org/
+
+METADEFENDER（140MB？）
+https://metadefender.opswat.com/
+
+VIRSACN（50MB）
+https://www.virscan.org/
+
+微步云沙箱（50MB）
+https://s.threatbook.com/
+
+腾讯哈勃分析系统（30MB？）
+https://habo.qq.com/
+
+ANYRUN（登录）
+https://any.run/
+
+Dr.WEB
+https://www.drweb.com/
+
+在线：
+- https://m.qq.com/security_lab/scans_online.jsp
+- https://scan.shouji.360.cn/
 
 #### 《气象&地》
 
