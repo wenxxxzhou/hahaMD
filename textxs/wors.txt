@@ -742,6 +742,8 @@ https://www.malavida.com/es/android/
 F-DROID
 https://f-droid.org/en/
 
+https://www.apkmirror.com/
+
 ### 安全
 
 VIRUSTOTAL（650MB？）
@@ -1083,6 +1085,8 @@ ___
 - Kreum (ガティ・クラム)
 @GuttyKreum
 
+DONG
+@DONGQ_
 
 ##### 《画师at+》
 

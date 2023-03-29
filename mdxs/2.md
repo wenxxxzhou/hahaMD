@@ -651,6 +651,9 @@ https://music.ghxi.com/
 下歌吧
 https://music.y444.cn/#/
 
+BEATS正版购买下载
+https://fantombeats.com/
+
 
 ### 《镜像集x》
 
@@ -686,6 +689,8 @@ https://zh.wikipedia.wmmirror.live/wiki
 
 #### 《ytb》
 
+LIBRETUBE
+https://f-droid.org/en/packages/com.github.libretube/
 
 #### 《twi》
 
@@ -733,6 +738,9 @@ https://appshare.vip/
 
 MALAVIDA
 https://www.malavida.com/es/android/
+
+F-DROID
+https://f-droid.org/en/
 
 ### 安全
 
@@ -992,6 +1000,7 @@ https://www.everypixel.com/
 # *仅为个人使用*
 # *请勿相信链内任何广告*
 
+___
 
 ##### 《画师twi+》
 
@@ -1008,17 +1017,11 @@ https://www.everypixel.com/
 @moot_sai
 （斉藤クロス）
 
-- Waneella
+- waneella
 @waneella_
 
 - TheDavishi
 @TheDavishi
-
-- ⇣
-@HamsterFragment
-
-- soapH
-@soapdpzel
 
 - せたも/UPC
 @setamo_map
@@ -1026,16 +1029,10 @@ https://www.everypixel.com/
 - Danc3r
 @PixelDanc3r
 
-- おゆざき■𝕆𝕪𝕦𝕫𝕒𝕜𝕚■
-@oyzk_2nc
-
-- Aduare
-@Aduare_rp
-
 - Bamboo.
 @Bamboobeboo
 
-- Miena 🌾 comms open!
+- miena 🌾 comms open!
 @_mienar
 
 - Moloch Deneuve
@@ -1045,16 +1042,7 @@ https://www.everypixel.com/
 @pixel_zima
 
 - Alena Aenami
-@Aenami_Art
-
-- Heikala
-@heikala_art
-
-- Toro rose
-@TororoRose 
-
-- Muscat
-@muscat_dot
+@Aenami_Art ​
 
 - KeysixZero
 @KeysixZero
@@ -1071,7 +1059,7 @@ https://www.everypixel.com/
 - とろろとろろ
 @t_oo_r_oo
 
-- Mae
+- mae
 @mae_1031_
 
 - A火ゆ🔥☕
@@ -1089,26 +1077,11 @@ https://www.everypixel.com/
 - AnasAbdin 🪐🌿
 @AnasAbdin
 
-- Mejwh
+- mejwh
 @mejwh_
 
-- 空中楼閣
-@7UF7UNrEkjOh8hE
-
-- おづみかん
-@ozumikan
-
-- 佐東おやすみ
-@satowmrmr0101
-
-- DAWN MOONLES.
-@DawnMoonles
-
-- hako 生活
-@clrfnd
-
-- かうざー
-@kauza_a
+- Kreum (ガティ・クラム)
+@GuttyKreum
 
 
 ##### 《画师at+》
@@ -1116,3 +1089,20 @@ https://www.everypixel.com/
 - Shin JeongHo
 
 - Alena Aenami
+
+
+# *仅为个人使用*
+# *请勿相信链内任何广告*
+
+___
+
+### AI_CHATGPT-API
+
+- https://freegpt.one/
+- https://gptdos.com/
+
+### AI_ART-IMAGE
+
+1. https://www.midjourney.com/
+2. https://openai.com/dall-e-2/
+3. https://stablediffusionweb.com/
