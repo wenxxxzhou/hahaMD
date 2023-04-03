@@ -713,9 +713,6 @@ https://ryzen.cc/
 - https://axutongxue.com/
 - https://axutongxue.net/
 
-423DOWN
-https://www.423down.com/
-
 羽翼城
 https://www.dogfight360.com/blog/
 
@@ -731,18 +728,17 @@ https://mailberry.com.cn/
 - http://www.dsg4.com/04/extra/index.html
 
 第三方礼品卡：
-- https://www.oyunfor.com/
+1. https://www.oyunfor.com/
 
-APP分享
-https://appshare.vip/
-
-MALAVIDA
-https://www.malavida.com/es/android/
-
-F-DROID
-https://f-droid.org/en/
-
-https://www.apkmirror.com/
+第三方APPS
+1. https://www.apkmirror.com/
+2. https://apkpure.com/
+3. https://en.aptoide.com/
+4. https://www.apkmonk.com/
+5. https://f-droid.org/en/
+6. https://www.malavida.com/es/android/
+7. https://appshare.vip/
+8. https://www.423down.com/
 
 ### 安全
 
