@@ -940,6 +940,11 @@ https://www.davidrumsey.com/
 ADOBE的
 https://color.adobe.com/zh/create/color-wheel
 
+### 《设计》
+1. https://designreviewed.com/
+2. https://eyeondesign.aiga.org/
+3. https://www.jagda.or.jp/
+4. https://ekrits.jp/
 
 #### 《图片网站》
 
@@ -987,13 +992,11 @@ https://gfsoso.99lb.net/image.html
 以图搜番：
 https://trace.moe/
 
-设计：
-https://www.everypixel.com/
 
 插画：
 1. https://saucenao.com/
 2. https://3d.iqdb.org/
-
+3. https://www.everypixel.com/
 
 # *仅为个人使用*
 # *请勿相信链内任何广告*
