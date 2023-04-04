@@ -941,10 +941,20 @@ ADOBE的
 https://color.adobe.com/zh/create/color-wheel
 
 ### 《设计》
+
+#### 网站
 1. https://designreviewed.com/
 2. https://eyeondesign.aiga.org/
 3. https://www.jagda.or.jp/
 4. https://ekrits.jp/
+
+#### 杂志
+1. idea
+http://www.idea-mag.com/en/
+2. eye
+https://www.eyemagazine.com/
+3. revue faire
+https://revue-faire.eu/
 
 #### 《图片网站》
 
@@ -1088,10 +1098,9 @@ DONG
 @DONGQ_
 
 ##### 《画师at+》
-
-- Shin JeongHo
-
-- Alena Aenami
+1. Shin JeongHo
+2. Alena Aenami
+3. dongbiao lu
 
 
 # *仅为个人使用*
