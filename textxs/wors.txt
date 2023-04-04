@@ -1110,11 +1110,39 @@ ___
 
 ### AI_CHATGPT-API
 
-- https://freegpt.one/
-- https://gptdos.com/
+1. https://freegpt.one/
+2. https://gptdos.com/
+3. https://chat.gptchinese.com/
+4. https://chat1.yqcloud.top/#/chat/1680592389249
+5. https://chat.extkj.cn/#/chat/1002
 
 ### AI_ART-IMAGE
 
 1. https://www.midjourney.com/
 2. https://openai.com/dall-e-2/
 3. https://stablediffusionweb.com/
+
+#### AIs
+1. https://aibang.run/
+
+#### 智能抠图
+1. Remove.bg
+https://www.remove.bg/zh
+2. Photokit
+https://photokit.com/?lang=zh
+3. 佐糖
+https://picwish.cn/
+4. 傲软抠图
+https://www.apowersoft.cn/remove-background-online
+5. 片刻抠图
+https://www.pickwant.com/home
+
+#### 智能人声伴奏分离
+1. 智取伴奏
+http://www.zhiqubz.com/
+2. moises.ai
+https://moises.ai/
+3. https://ezstems.com/
+4. https://thepirat000.github.io/spleeter-api/
+5. http://splitter.ai/
+6. https://melody.ml/
