@@ -1097,10 +1097,21 @@ ___
 DONG
 @DONGQ_
 
+victorards | Comms Open! (4/5)
+@vicardspixel
+
+Gustavo Viselner
+@PixelGustavo
+
+TUOER.托兒
+@tuoer_sg
+
 ##### 《画师at+》
 1. Shin JeongHo
 2. Alena Aenami
 3. dongbiao lu
+4. Raphael Lacoste
+5. Marcin Basta
 
 
 # *仅为个人使用*
