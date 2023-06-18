@@ -214,20 +214,27 @@ https://www.nunuyy3.org/
 - https://www.yinfans.me/
 - https://www.yinfans.net/
 
-分派电影//已关站 纪念//
-https://ifenpaidy.com/
-
 霸王龙压制组
 https://t-rex.tzfile.com/
 
-RARGB
+分派电影（关站纪念）
+https://ifenpaidy.com/
+
+RARGB（关站纪念）
 - https://rarbgaccess.org/torrents.php
 - https://rarbgmirror.org/torrents.php
 - https://rarbgmirror.com/index70.php
 - http://rarbgmirror.org/index70.php
 - http://rarbg2018.org/torrents.php
 
-bt1207
+YTS
+- https://yifystatus.com/
+- https://yts.mx/
+- https://yts.LT/
+- https://yts.AM/
+- https://yts.AG/
+
+BT1207
 - https://ibt120701.xyz/
 - https://bt1207fb.top/
 - https://bt1207ai.top/
@@ -739,6 +746,11 @@ https://mailberry.com.cn/
 6. https://www.malavida.com/es/android/
 7. https://appshare.vip/
 8. https://www.423down.com/
+9. https://www.uptodown.com/android
+10. https://download.cnet.com/android/
+
+玩儿机论坛
+1. https://forum.xda-developers.com/
 
 ### 安全
 
@@ -1011,100 +1023,7 @@ https://trace.moe/
 # *仅为个人使用*
 # *请勿相信链内任何广告*
 
-___
 
-##### 《画师twi+》
-
-- ぎょうざちゃん@毎日更新イラスト
-@gyoza_channel
-
-- 甘城なつき/Nachoneko💤
-@amsrntk3
-
-- ななみ雪
-@yuki77mi
-
-- モトクロス斉藤/UPC
-@moot_sai
-（斉藤クロス）
-
-- waneella
-@waneella_
-
-- TheDavishi
-@TheDavishi
-
-- せたも/UPC
-@setamo_map
-
-- Danc3r
-@PixelDanc3r
-
-- Bamboo.
-@Bamboobeboo
-
-- miena 🌾 comms open!
-@_mienar
-
-- Moloch Deneuve
-@MarcelDeneuve
-
-- ZiMA / 飯ドット
-@pixel_zima
-
-- Alena Aenami
-@Aenami_Art ​
-
-- KeysixZero
-@KeysixZero
-
-- EiskalterEngel18
-@Eiskalter18
-
-- Robin
-@nonamenosocks
-
-- Phhhz
-@phhhhhhhz
-
-- とろろとろろ
-@t_oo_r_oo
-
-- mae
-@mae_1031_
-
-- A火ゆ🔥☕
-@Akayu_Pixel
-
-- ぼんち
-@no_no_no_com
-
-- けムり
-@K3mr1_3
-
-- 豊井
-@1041uuu
-
-- AnasAbdin 🪐🌿
-@AnasAbdin
-
-- mejwh
-@mejwh_
-
-- Kreum (ガティ・クラム)
-@GuttyKreum
-
-DONG
-@DONGQ_
-
-##### 《画师at+》
-1. Shin JeongHo
-2. Alena Aenami
-3. dongbiao lu
-
-
-# *仅为个人使用*
-# *请勿相信链内任何广告*
 
 ___
 
@@ -1115,6 +1034,7 @@ ___
 3. https://chat.gptchinese.com/
 4. https://chat1.yqcloud.top/#/chat/1680592389249
 5. https://chat.extkj.cn/#/chat/1002
+6. https://chat.aiduihua.com/h5/10001/#/
 
 ### AI_ART-IMAGE
 

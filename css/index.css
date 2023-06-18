@@ -1,0 +1,224 @@
+a {
+    font-style: italic;
+    color: white;
+}
+
+html {
+    width: 100%;
+    background-color: black;
+}
+
+.ziliao {
+    display: flex;
+    justify-content: space-between;
+    flex-flow: row wrap;
+}
+
+.kuang {
+    width: 100%;
+}
+
+.div1,
+.div2 {
+    width: 100px;
+    height: 100px;
+    margin: 10px auto;
+    border: 1px solid white;
+    text-align: center;
+    line-height: 100px;
+}
+
+.div2 {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+}
+
+.none-space {
+    margin: 50px;
+}
+
+/* 加载动画始 */
+.anime-box {
+    position: relative;
+    left: 50%;
+    width: 100px;
+    height: 100px;
+    transform: translateX(-50px);
+    background-color: white;
+}
+
+.anime-point-1,
+.anime-point-2,
+.anime-point-3,
+.anime-point-4 {
+    position: absolute;
+}
+
+.anime-point-1 {
+    left: 0;
+    top: 0;
+    background-color: blue;
+    animation: anime-point-1 2s infinite;
+}
+
+.anime-point-2 {
+    right: 0;
+    bottom: 0;
+    background-color: red;
+    animation: anime-point-2 2s infinite;
+}
+
+.anime-point-3 {
+    left: 20px;
+    top: -20px;
+    width: 2px;
+    height: 140px;
+    background-color: black;
+    animation: anime-point-3 2s infinite;
+}
+
+.anime-point-4 {
+    left: -20px;
+    top: 20px;
+    width: 140px;
+    height: 2px;
+    background-color: black;
+    animation: anime-point-4 2s infinite;
+}
+
+.anime-point-5 {
+    position: absolute;
+    left: -20px;
+    top: -2px;
+    width: 140px;
+    height: 2px;
+    background-color: black;
+}
+
+.anime-point-6 {
+    position: absolute;
+    left: -20px;
+    top: 100px;
+    width: 140px;
+    height: 2px;
+    background-color: black;
+}
+
+.anime-point-7 {
+    position: absolute;
+    left: -2px;
+    top: -20px;
+    width: 2px;
+    height: 140px;
+    background-color: black;
+}
+
+.anime-point-8 {
+    position: absolute;
+    left: 100px;
+    top: -20px;
+    width: 2px;
+    height: 140px;
+    background-color: black;
+}
+
+@keyframes anime-point-1 {
+    0% {
+        width: 20px;
+        height: 20px;
+    }
+
+    25% {
+        width: 80px;
+        height: 20px;
+    }
+
+    50% {
+        width: 80px;
+        height: 80px;
+    }
+
+    75% {
+        width: 20px;
+        height: 80px;
+    }
+
+    100% {
+        width: 20px;
+        height: 20px;
+    }
+}
+
+@keyframes anime-point-2 {
+    0% {
+        width: 80px;
+        height: 80px;
+    }
+
+    25% {
+        width: 20px;
+        height: 80px;
+    }
+
+    50% {
+        width: 20px;
+        height: 20px;
+    }
+
+    75% {
+        width: 80px;
+        height: 20px;
+    }
+
+    100% {
+        width: 80px;
+        height: 80px;
+    }
+}
+
+@keyframes anime-point-3 {
+    0% {
+        left: 20px;
+    }
+
+    25% {
+        left: 80px;
+    }
+
+    50% {
+        left: 80px;
+    }
+
+    75% {
+        left: 20px;
+    }
+
+    100% {
+        left: 20px;
+    }
+}
+
+@keyframes anime-point-4 {
+    0% {
+        top: 20px;
+    }
+
+    25% {
+        top: 20px;
+    }
+
+    50% {
+        top: 80px;
+    }
+
+    75% {
+        top: 80px;
+    }
+
+    100% {
+        top: 20px;
+    }
+}
+
+/* 加载动画末 */
