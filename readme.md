@@ -36,14 +36,11 @@ https://www.huo720.com/
 亿万同人字幕组
 http://ywtrzmz.net/
 
-
 弯弯字幕组
 http://www.wanwansub.com/
 
-
 FIX字幕侠
 http://www.zimuxia.cn/
-
 
 NEW字幕组
 https://newzmz.com/index.html
@@ -53,7 +50,6 @@ https://www.huanyuezmz.site/
 
 诸神字幕组
 https://subs.kamigami.org/category/drama
-
 
 东京不够热SUB
 https://www.tokyonothot.com/
@@ -720,6 +716,9 @@ https://ryzen.cc/
 - https://axutongxue.com/
 - https://axutongxue.net/
 
+安什么装
+https://asmz.wss.cc/
+
 羽翼城
 https://www.dogfight360.com/blog/
 
@@ -783,6 +782,9 @@ https://www.drweb.com/
 - https://scan.shouji.360.cn/
 
 #### 《气象&地》
+
+ECMWF
+https://www.ecmwf.int/
 
 WINDY
 https://www.windy.com/
@@ -932,6 +934,8 @@ https://singlelogin.org/
 STEAM-DB
 https://steamdb.info/
 
+MSDPRO
+https://www.msdmanuals.cn/professional
 
 #### 《地图》
 
@@ -1029,12 +1033,11 @@ ___
 
 ### AI_CHATGPT-API
 
-1. https://freegpt.one/
-2. https://gptdos.com/
-3. https://chat.gptchinese.com/
-4. https://chat1.yqcloud.top/#/chat/1680592389249
-5. https://chat.extkj.cn/#/chat/1002
-6. https://chat.aiduihua.com/h5/10001/#/
+1. https://gptdos.com/
+2. https://chat.gptchinese.com/
+3. https://chat1.yqcloud.top/#/chat/1680592389249
+4. https://chat.extkj.cn/#/chat/1002
+5. https://chat.aiduihua.com/h5/10001/#/
 
 ### AI_ART-IMAGE
 
