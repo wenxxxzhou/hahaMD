@@ -932,14 +932,24 @@ https://singlelogin.org/
 STEAM-DB
 https://steamdb.info/
 
-MSDPRO默沙东诊疗手册
-https://www.msdmanuals.cn/professional
+
 
 LENSTIP镜头
 https://www.lenstip.com/
 
 汉典
 https://www.zdic.net/
+
+### SCIENCE
+
+1.MSDPRO默沙东诊疗手册
+https://www.msdmanuals.cn/professional
+
+2.sciencemediacentre
+https://www.sciencemediacentre.org/
+
+3.sciencefeedback
+https://sciencefeedback.co/?continueFlag=6d9bf218cf6b0fd3ad8c94275089c5a0
 
 #### 《地图》
 
@@ -1049,6 +1059,9 @@ ___
 2. https://openai.com/dall-e-2/
 3. https://stablediffusionweb.com/
 
+### AI_SCHOLAR
+https://txyz.ai/
+
 #### AIs
 1. https://aibang.run/
 
@@ -1073,3 +1086,4 @@ https://moises.ai/
 4. https://thepirat000.github.io/spleeter-api/
 5. http://splitter.ai/
 6. https://melody.ml/
+
