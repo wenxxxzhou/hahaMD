@@ -811,19 +811,28 @@ http://www.youhuaaa.com/
 谷歌识图镜像：
 https://gfsoso.99lb.net/image.html
 
-二次元：
-1. https://ascii2d.net/
-2. http://iqdb.org/
-3. https://saucenao.com/
-
 以图搜番：
 https://trace.moe/
 
-
-插画：
+二次元&插画：
 1. https://saucenao.com/
-2. https://3d.iqdb.org/
-3. https://www.everypixel.com/
+2. https://ascii2d.net/
+3. http://iqdb.org/
+4. https://3d.iqdb.org/
+5. https://www.everypixel.com/
+7. http://tbib.org
+6. http://soutubot.moe
+
+壁纸：
+1. https://wallhaven.cc/
+
+其他：
+1. http://tineye.com
+2. http://gelbooru.com
+3. http://zerochan.net
+4. http://m.naver.com
+5. https://rootabout.com/
+
 
 # *仅为个人使用*
 # *请勿相信链内任何广告*
