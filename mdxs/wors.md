@@ -12,10 +12,8 @@
 12. 动画下载
 13. 特别影视资源站
 14. 字幕下载
-15. 字幕组微博号
-16. 字幕组公众号
-17. APP综合
-18. APP动画
+15. APP综合
+16. APP动画
 
 ___
 
@@ -52,6 +50,7 @@ FIX字幕侠
 http://www.zimuxia.cn/
 
 NEW字幕组
+https://nzmz.xyz/index.html
 https://newzmz.com/index.html
 
 幻月字幕组
@@ -74,6 +73,9 @@ https://www.yysub.net/
 
 动漫国字幕组
 https://www.dmguo.org/forum.php
+
+VMOE
+https://vmoe.info/
 
 苏苏发布
 https://susuifa.com/
@@ -115,6 +117,8 @@ https://www.zxzjhd.com/
 - http://www.dygangs.com/
 - https://www.dygang.tv
 
+团长资源
+https://t-rex.tzfile.com/
 
 #### 《综合在线》
 
@@ -445,6 +449,8 @@ https://music.y444.cn/#/
 BEATS正版购买下载
 https://fantombeats.com/
 
+MIDISHOW(MIDI下载)
+https://www.midishow.com/
 
 ### 《镜像集x》
 
@@ -500,6 +506,9 @@ https://asmz.wss.cc/
 邮莓
 https://mailberry.com.cn/
 
+毒奶
+https://limbopro.com/
+
 押本佑二（yuji oshimoto|04@dsg4.com）
 - http://04.jp.org/
 - http://www.samohung.jp/
@@ -530,6 +539,8 @@ https://mailberry.com.cn/
 6. https://www.423down.com/
 7. https://appshare.vip/
 
+DOWNSUB(流媒体字幕轨下载)
+https://downsub.com/
 
 ### 安全
 
@@ -719,13 +730,20 @@ https://singlelogin.org/
 STEAM-DB
 https://steamdb.info/
 
-
-
 LENSTIP镜头
 https://www.lenstip.com/
 
 汉典
 https://www.zdic.net/
+
+GAMEBANANA
+https://gamebanana.com/mods/400833
+
+MERGEEK
+https://mergeek.com/
+
+TOPYS
+https://www.topys.cn/
 
 ### SCIENCE
 
@@ -737,6 +755,9 @@ https://www.sciencemediacentre.org/
 
 3.sciencefeedback
 https://sciencefeedback.co/?continueFlag=6d9bf218cf6b0fd3ad8c94275089c5a0
+
+4. JAMA
+https://jamanetwork.com/
 
 #### 《地图》
 
@@ -805,6 +826,17 @@ https://www.nbfox.com/
 有画网
 http://www.youhuaaa.com/
 
+DEVIANTART
+https://www.deviantart.com/abashi76/art/Lost-Future-Dark-Post-Apocalyptic-962340771
+
+TENOR(GIF)
+https://tenor.com/zh-CN/view/pixel-art-sound-asleep-tired-gif-14364653
+
+IRASUTOYA(贴纸素材)
+https://www.irasutoya.com/
+
+LAIN
+https://fauux.neocities.org/
 
 #### 《识图搜图》
 
