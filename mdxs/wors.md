@@ -146,6 +146,8 @@ RARGB（关站纪念）
 - https://rarbgmirror.com/index70.php
 - http://rarbgmirror.org/index70.php
 - http://rarbg2018.org/torrents.php
+1. https://rargb.to/movies/
+2. https://rarbg.unblockninja.com/movies/
 
 YTS
 - https://yifystatus.com/
@@ -167,6 +169,21 @@ CHAOSPACE
 BT之家
 - https://www.btbtt15.com/
 - https://btbtt12.com/
+
+EZTV
+https://eztv.unblockit.date/
+
+1377X
+https://www.1377x.to/
+
+TGX
+https://tgx.rs/
+
+SKRBT
+https://skrbtgb.top/
+
+GRAB4K
+https://www.grab4k.com/
 
 MP4电影
 https://www.domp4.cc/
@@ -371,11 +388,11 @@ SUBHD
 - https://subhdtw.com
 - https://subhd.me
 
+日菁字幕组
+http://www.mytvbt.net/forumdisplay.php?fid=6
+
 ACG字幕
 https://bbs.acgrip.com/
-
-日剧字幕
-http://www.mytvbt.net/forumdisplay.php?fid=6
 
 射手网（伪）
 https://assrt.net/
@@ -386,12 +403,22 @@ https://www.a4k.net/
 R3字幕
 https://www.r3sub.com
 
-SUBSCENE
-https://subscene.com/
+国外字幕（含中文字幕）
+- http://www.moviesubtitles.org/
+- https://subscene.com/
+- https://www.opensubtitles.org/zh
+- https://www.podnapisi.net/
+- https://subtitleshub.net/
+- https://subtitleshub.net/
 
-OPENSUBTITLES字幕
-https://www.opensubtitles.org/zh
+奇下载字幕
+https://www.qixiazai.com/
 
+国外字幕
+https://www.addic7ed.com/
+
+纪录片字幕
+https://topdocumentaryfilms.com/
 
 ### 《APP综合》
 
