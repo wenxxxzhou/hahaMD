@@ -420,6 +420,9 @@ https://www.addic7ed.com/
 纪录片字幕
 https://topdocumentaryfilms.com/
 
+VMOE字幕组
+https://vmoe.info/
+
 ### 《APP综合》
 
 影视森林
@@ -547,8 +550,9 @@ https://limbopro.com/
 4. https://www.apkmonk.com/
 5. https://f-droid.org/en/
 6. https://www.malavida.com/es/android/
-9. https://www.uptodown.com/android
-10. https://download.cnet.com/android/
+7. https://www.uptodown.com/android
+8. https://download.cnet.com/android/
+9. https://vmoe.info/
 
 玩儿机
 - https://asmz.wss.cc/article/detail/forum.release-apk.com/
@@ -714,9 +718,23 @@ https://moreread.me/
 考神杂志馆（收费）
 https://kaoshenzazhi.com/
 
-
-
 #### 《资料等》
+
+英文缩略词查询
+https://www.abbreviationfinder.org/cn/
+
+剑桥词典
+https://dictionary.cambridge.org/
+
+汉典
+https://www.zdic.net/
+
+- https://cjjc.weblio.jp/
+- https://kotobank.jp/gs/?q=%E3%81%97%E3%82%83%E3%82%8D%E3%81%86
+- https://www.gavo.t.u-tokyo.ac.jp/ojad/chi/search/index/sortprefix:accent/narabi1:kata_asc/narabi2:accent_asc/narabi3:mola_asc/yure:visible/curve:invisible/details:invisible/limit:20
+- https://gogen-allguide.com/
+- https://www.mojidict.com/search
+- https://gogen-allguide.com/
 
 MAXZYWK
 - https://www.marxists.org/chinese/index.html
@@ -731,12 +749,6 @@ https://www.logodesignlove.com/
 
 IDENTITY-DESIGNED
 https://identitydesigned.com/
-
-英文缩略词查询
-https://www.abbreviationfinder.org/cn/
-
-剑桥词典
-https://dictionary.cambridge.org/
 
 Web Of Science
 https://access.clarivate.com/login?app=wos&alternative=true&shibShireURL=https:%2F%2Fwww.webofknowledge.com%2F%3Fauth%3DShibboleth&shibReturnURL=https:%2F%2Fwww.webofknowledge.com%2F%3FauthCode%3Dnull%26app%3Dwos%26referrer%3Dmode%253DNextgen%2526path%253D%25252Fwos%25252Fwoscc%25252Fbasic-search%2526DestApp%253DUA%2526action%253Dtransfer%26locale%3Dzh-CN&referrer=mode%3DNextgen%26path%3D%252Fwos%252Fwoscc%252Fbasic-search%26DestApp%3DUA%26action%3Dtransfer&roaming=true
@@ -756,9 +768,6 @@ https://steamdb.info/
 LENSTIP镜头
 https://www.lenstip.com/
 
-汉典
-https://www.zdic.net/
-
 GAMEBANANA
 https://gamebanana.com/mods/400833
 
@@ -768,19 +777,20 @@ https://mergeek.com/
 TOPYS
 https://www.topys.cn/
 
+- https://stellarium.org/zh_CN/
+- https://www.esmo.org/
+
 ### SCIENCE
 
-1.MSDPRO默沙东诊疗手册
-https://www.msdmanuals.cn/professional
-
-2.sciencemediacentre
+1. sciencemediacentre
 https://www.sciencemediacentre.org/
 
-3.sciencefeedback
+2. sciencefeedback
 https://sciencefeedback.co/?continueFlag=6d9bf218cf6b0fd3ad8c94275089c5a0
 
-4. JAMA
-https://jamanetwork.com/
+- https://www.msdmanuals.cn/professional
+- https://jamanetwork.com/
+- https://www.thelancet.com/
 
 #### 《地图》
 
@@ -821,6 +831,9 @@ https://revue-faire.eu/
 
 电影截图
 https://film-grab.com/
+
+老像素网站（已归档）
+https://pixelation.org/
 
 PIXEL-GIF
 https://pixelgif.cn/
