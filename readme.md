@@ -1,10 +1,4 @@
-### 醒目内容标题
-#### 一般内容标题
-##### 特殊内容标题
-
-___
-
-#### 《影视资料》
+# 《影视资料》
 
 火星影剧
 https://www.huo720.com/
@@ -12,11 +6,11 @@ https://www.huo720.com/
 MYANIMLIST
 https://myanimelist.net/
 
-阿虚同学（可参考影视部分）
+阿虚同学（这里指参考影视部分）
 - https://axutongxue.com/
 - https://axutongxue.net/
 
-### 《字幕组&发布》
+## 《字幕组&发布》
 
 亿万同人字幕组
 http://ywtrzmz.net/
@@ -28,8 +22,8 @@ FIX字幕侠
 http://www.zimuxia.cn/
 
 NEW字幕组
-https://nzmz.xyz/index.html
-https://newzmz.com/index.html
+- https://nzmz.xyz/index.html
+- https://newzmz.com/index.html
 
 幻月字幕组
 https://www.huanyuezmz.site/
@@ -47,9 +41,8 @@ https://sub.shinybbs.vip/
 https://www.icezmz.com/
 
 RRYS字幕组
-https://www.yysub.net/
-https://yyets.click/home
-
+- https://www.yysub.net/
+- https://yyets.click/home
 
 动漫国字幕组
 https://www.dmguo.org/forum.php
@@ -60,11 +53,11 @@ https://vmoe.info/
 苏苏发布
 https://susuifa.com/
 
-#### 《综合聚合搜索》
+## 《综合聚合搜索》
 
-#### 《综合在线下载》
+## 《综合在线下载》
 
-#### 《综合在线》
+## 《综合在线》
 
 NO视频
 https://www.novipnoad.com/
@@ -72,7 +65,7 @@ https://www.novipnoad.com/
 剧迷
 https://gimy.app/
 
-#### 《综合下载》
+## 《综合下载》
 
 音范丝影音集
 - https://www.yinfans.me/
@@ -84,14 +77,14 @@ https://t-rex.tzfile.com/
 分派电影（关站纪念）
 https://ifenpaidy.com/
 
-RARGB（关站纪念）
-- https://rarbgaccess.org/torrents.php
-- https://rarbgmirror.org/torrents.php
-- https://rarbgmirror.com/index70.php
-- http://rarbgmirror.org/index70.php
-- http://rarbg2018.org/torrents.php
-1. https://rargb.to/movies/
-2. https://rarbg.unblockninja.com/movies/
+RARGB
+> - https://rarbgaccess.org/torrents.php
+> - https://rarbgmirror.org/torrents.php
+> - https://rarbgmirror.com/index70.php
+> - http://rarbgmirror.org/index70.php
+> - http://rarbg2018.org/torrents.php
+- https://rargb.to/movies/
+- https://rarbg.unblockninja.com/movies/
 
 noR站
 - https://tgx.rs/
@@ -182,7 +175,7 @@ https://gaoqing.la/
 BTSOW
 https://btsow.motorcycles/tags
 
-#### 《电视剧在线下载》
+## 《电视剧在线下载》
 
 韩饭网
 https://www.hanfan.cc/
@@ -197,16 +190,15 @@ https://www.gangjuw.net/index.html
 看看屋
 https://www.kankanwu.com/index.html
 
-
-#### 《电视剧在线》
+## 《电视剧在线》
 
 极客影院
 - http://i8k.cc
 - http://www.i4k.cc
 
-#### 《电视剧下载》
+## 《电视剧下载》
 
-#### 《动画在线下载》
+## 《动画在线下载》
 
 age动漫
 - https://github.com/agefanscom/website
@@ -219,12 +211,15 @@ age动漫
 - https://www.agefans.com
 - https://www.age.tv
 
-#### 《动画在线》
+## 《动画在线》
 
-#### 《动画下载》
+## 《动画下载》
 
 末日动漫资源库
-https://share.acgnx.se/
+- 大陆官方同步
+https://share.acgnx.net/
+- https://share.acgnx.se/
+
 
 蜜柑计划
 https://mikanani.me/
@@ -237,8 +232,10 @@ x漫
 动漫花园
 - http://www.dmhy.org/
 - https://share.dmhy.org/
-- 同步 https://www.dongmanhuayuan.com/
-- 同步 https://dongmanhuayuan.myheartsite.com/
+- 同步
+https://www.dongmanhuayuan.com/
+- 同步
+https://dongmanhuayuan.myheartsite.com/
 
 ACGRIP
 https://acg.rip
@@ -262,7 +259,7 @@ https://www.tsdm39.net/forum.php
 BANGUMI
 https://bgm.tv/
 
-##### 《特别影视资源站部分》
+## 《特别影视资源站部分》
 
 STAGE1
 https://bbs.saraba1st.com/2b/forum.php
@@ -276,11 +273,7 @@ http://www.kissacg.org/
 空想实验室
 http://www.soulbt.cn/
 
-subs:
-1. http://www.moviesubtitles.org/
-
-
-### 《字幕下载》
+## 《字幕下载》
 
 点点字幕
 http://www.ddzimu.com/
@@ -319,6 +312,7 @@ https://www.r3sub.com
 - https://www.podnapisi.net/
 - https://subtitleshub.net/
 - https://subtitleshub.net/
+- http://www.moviesubtitles.org/
 
 奇下载字幕
 https://www.qixiazai.com/
@@ -337,9 +331,6 @@ https://vmoe.info/
 影视森林
 - https://yssenlin.app/
 - https://wwt.lanzouw.com/senlin
-
-花火视频
-http://hh01.vip/
 
 乐看视频
 https://lekan.app/
@@ -361,19 +352,18 @@ ZZZFUN
 - http://www.zzzfun.vip/
 - https://zzz-1251249846.file.myqcloud.com/index.html
 
-
 # *仅为个人使用*
 # *请勿相信链内任何广告*
 
 ___
 
-#### 《音乐解锁》
+# 《音乐解锁》
 
-1. https://mp3.aoleiao.com/
-2. https://unlock-music-ix.netlify.app/
-3. https://tool.whgpc.com/Tools/unlockmusic/
+- https://mp3.aoleiao.com/
+- https://unlock-music-ix.netlify.app/
+- https://tool.whgpc.com/Tools/unlockmusic/
 
-#### 《音乐下载》
+## 《音乐下载》
 
 HIFINI
 https://www.hifini.com/
@@ -387,7 +377,7 @@ https://fantombeats.com/
 MIDISHOW(MIDI下载)
 https://www.midishow.com/
 
-### 《镜像集x》
+# 《镜像集x》
 
 searX
 https://searx.space/
@@ -412,21 +402,21 @@ https://www.aizhan.com/
 - https://steampp.net/
 - https://www.dogfight360.com/blog/
 
-#### 《BK》
+## 《BK》
 
 反代，有原条目链接
 https://zh.wikipedia.wmmirror.live/wiki
 
-#### 《GG》
+## 《GG》
 
-#### 《YG》
+## 《YG》
 
 LIBRETUBE
 https://f-droid.org/en/packages/com.github.libretube/
 
-#### 《twi》
+## 《twi》
 
-### 《阿》
+# 《阿》
 
 RYZEN
 https://ryzen.cc/
@@ -487,7 +477,7 @@ FONTS
 跨语言语音量表数据库
 https://phoible.org/
 
-### 安全
+## 安全
 
 VIRUSTOTAL（650MB？）
 https://www.virustotal.com/gui/home/upload
@@ -517,7 +507,7 @@ https://www.drweb.com/
 - https://m.qq.com/security_lab/scans_online.jsp
 - https://scan.shouji.360.cn/
 
-#### 《气象&地》
+# 《气象&地》
 
 ECMWF
 https://www.ecmwf.int/
@@ -546,13 +536,11 @@ https://bbs.06climate.com/
 中国地震台网
 https://news.ceic.ac.cn/
 
-
-#### 《电子书》
+# 《电子书》
 
 Z
 - https://singlelogin.re/
 - https://zlibrary-africa.se/
-
 
 Z镜像1
 - https://v3.zhelper.net/
@@ -636,7 +624,7 @@ https://moreread.me/
 考神杂志馆（收费）
 https://kaoshenzazhi.com/
 
-#### 《资料等》
+# 《资料等》
 
 英文缩略词查询
 https://www.abbreviationfinder.org/cn/
@@ -648,11 +636,17 @@ https://dictionary.cambridge.org/
 https://www.zdic.net/
 
 - https://cjjc.weblio.jp/
-- https://kotobank.jp/gs/?q=%E3%81%97%E3%82%83%E3%82%8D%E3%81%86
-- https://www.gavo.t.u-tokyo.ac.jp/ojad/chi/search/index/sortprefix:accent/narabi1:kata_asc/narabi2:accent_asc/narabi3:mola_asc/yure:visible/curve:invisible/details:invisible/limit:20
+- https://www.weblio.jp/
+- https://kotobank.jp/
+- https://www.gavo.t.u-tokyo.ac.jp/ojad/
+- https://dictionary.goo.ne.jp/
 - https://gogen-allguide.com/
-- https://www.mojidict.com/search
-- https://gogen-allguide.com/
+- https://www.ctrans.org/
+- https://www.aozora.gr.jp/
+> - http://sakura-paris.org/
+> - https://annas-archive.org/search?q=%E5%BA%83%E8%BE%9E%E8%8B%91
+- https://fanyi.qq.com/
+- https://imiwaapp.com/
 
 MAXZYWK
 - https://www.marxists.org/chinese/index.html
@@ -668,8 +662,7 @@ https://www.logodesignlove.com/
 IDENTITY-DESIGNED
 https://identitydesigned.com/
 
-Web Of Science
-https://access.clarivate.com/login?app=wos&alternative=true&shibShireURL=https:%2F%2Fwww.webofknowledge.com%2F%3Fauth%3DShibboleth&shibReturnURL=https:%2F%2Fwww.webofknowledge.com%2F%3FauthCode%3Dnull%26app%3Dwos%26referrer%3Dmode%253DNextgen%2526path%253D%25252Fwos%25252Fwoscc%25252Fbasic-search%2526DestApp%253DUA%2526action%253Dtransfer%26locale%3Dzh-CN&referrer=mode%3DNextgen%26path%3D%252Fwos%252Fwoscc%252Fbasic-search%26DestApp%3DUA%26action%3Dtransfer&roaming=true
+[***Web Of Science***](https://access.clarivate.com/login?app=wos&alternative=true&shibShireURL=https:%2F%2Fwww.webofknowledge.com%2F%3Fauth%3DShibboleth&shibReturnURL=https:%2F%2Fwww.webofknowledge.com%2F%3FauthCode%3Dnull%26app%3Dwos%26referrer%3Dmode%253DNextgen%2526path%253D%25252Fwos%25252Fwoscc%25252Fbasic-search%2526DestApp%253DUA%2526action%253Dtransfer%26locale%3Dzh-CN&referrer=mode%3DNextgen%26path%3D%252Fwos%252Fwoscc%252Fbasic-search%26DestApp%3DUA%26action%3Dtransfer&roaming=true)
 
 theocean
 https://www.oyunfor.com/
@@ -705,13 +698,12 @@ https://www.topys.cn/
 - http://www.guoxue123.cn/index.htm
 - https://ctext.org
 
-### SCIENCE
+## SCIENCE
 
 1. sciencemediacentre
 https://www.sciencemediacentre.org/
 
-2. sciencefeedback
-https://sciencefeedback.co/?continueFlag=6d9bf218cf6b0fd3ad8c94275089c5a0
+2. [***sciencefeedback***](https://sciencefeedback.co/?continueFlag=6d9bf218cf6b0fd3ad8c94275089c5a0)
 
 - https://www.msdmanuals.cn/professional
 - https://jamanetwork.com/
@@ -719,12 +711,12 @@ https://sciencefeedback.co/?continueFlag=6d9bf218cf6b0fd3ad8c94275089c5a0
 - https://pubmed.ncbi.nlm.nih.gov/
 - https://www.nejm.org/
 
-#### 《游戏发行等》
+## 《游戏发行等》
 - https://itch.io/
 - https://www.dlsite.com
 - https://www.gog.com
 
-#### 《地图》
+## 《地图》
 
 天地图
 https://www.tianditu.gov.cn/
@@ -737,21 +729,18 @@ https://www.davidrumsey.com/
 
 数位方舆 <br>
 
-
-#### 《配色网站》
+# 《配色网站》
 
 ADOBE的
 https://color.adobe.com/zh/create/color-wheel
 
-### 《设计》
-
-#### 网站
+## 设计网站
 1. https://designreviewed.com/
 2. https://eyeondesign.aiga.org/
 3. https://www.jagda.or.jp/
 4. https://ekrits.jp/
 
-#### 杂志
+## 杂志
 1. idea
 http://www.idea-mag.com/en/
 2. eye
@@ -759,7 +748,7 @@ https://www.eyemagazine.com/
 3. revue faire
 https://revue-faire.eu/
 
-#### 《图片网站》
+# 《图片网站》
 
 电影截图
 https://film-grab.com/
@@ -797,8 +786,7 @@ https://www.nbfox.com/
 有画网
 http://www.youhuaaa.com/
 
-DEVIANTART
-https://www.deviantart.com/abashi76/art/Lost-Future-Dark-Post-Apocalyptic-962340771
+[***DEVIANTART***](https://www.deviantart.com/abashi76/art/Lost-Future-Dark-Post-Apocalyptic-962340771)
 
 TENOR(GIF)
 https://tenor.com/zh-CN/view/pixel-art-sound-asleep-tired-gif-14364653
@@ -809,7 +797,7 @@ https://www.irasutoya.com/
 LAIN
 https://fauux.neocities.org/
 
-#### 《识图搜图》
+# 《识图搜图》
 
 谷歌识图镜像：
 https://gfsoso.99lb.net/image.html
@@ -836,35 +824,24 @@ https://trace.moe/
 4. http://m.naver.com
 5. https://rootabout.com/
 
-
 # *仅为个人使用*
 # *请勿相信链内任何广告*
 
-
-
 ___
 
-### AI_CHATGPT-API
-
-1. https://gptdos.com/
-2. https://chat.gptchinese.com/
-3. https://chat1.yqcloud.top/#/chat/1680592389249
-4. https://chat.extkj.cn/#/chat/1002
-5. https://chat.aiduihua.com/h5/10001/#/
-
-### AI_ART-IMAGE
+# AI_ART
 
 1. https://www.midjourney.com/
 2. https://openai.com/dall-e-2/
 3. https://stablediffusionweb.com/
+4. https://huggingface.co/
+5. https://civitai.com/
+6. https://suno.com/about
 
-### AI_SCHOLAR
+## AI_SCHOLAR
 https://txyz.ai/
 
-#### AIs
-1. https://aibang.run/
-
-#### 智能抠图
+## 智能抠图
 1. Remove.bg
 https://www.remove.bg/zh
 2. Photokit
@@ -876,7 +853,7 @@ https://www.apowersoft.cn/remove-background-online
 5. 片刻抠图
 https://www.pickwant.com/home
 
-#### 智能人声伴奏分离
+## 智能人声伴奏分离
 1. 智取伴奏
 http://www.zhiqubz.com/
 2. moises.ai
@@ -885,5 +862,3 @@ https://moises.ai/
 4. https://thepirat000.github.io/spleeter-api/
 5. http://splitter.ai/
 6. https://melody.ml/
-
-
