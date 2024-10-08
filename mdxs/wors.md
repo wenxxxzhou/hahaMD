@@ -425,8 +425,11 @@ https://ryzen.cc/
 - https://axutongxue.com/
 - https://axutongxue.net/
 
-安什么装
-https://asmz.wss.cc/
+Dogfight360
+https://www.dogfight360.com/blog/
+
+Steam++
+https://steampp.net/
 
 邮莓
 https://mailberry.com.cn/
@@ -515,6 +518,14 @@ https://www.ecmwf.int/
 WINDY
 https://www.windy.com/
 
+[***earth***](https://earth.nullschool.net/zh-cn/#:~:text=%E9%80%9A%E8%BF%87%E8%B6%85%E7%BA%A7%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9A%84%E9%A2%84%E5%91%8A)
+
+meteologix
+https://meteologix.com/cn
+
+meteoblue
+https://www.meteoblue.com/en
+
 中国气象局国家气候中心
 http://cmdp.ncc-cma.net/cn/
 
@@ -530,8 +541,10 @@ http://www.weather.com.cn/
 气象家园
 https://bbs.06climate.com/
 
-1. 日葵八号卫星
-2. 台湾卫星
+日本气象厅
+https://www.jma.go.jp/jma/index.html
+
+- 日葵8/风云4
 
 中国地震台网
 https://news.ceic.ac.cn/
@@ -648,10 +661,8 @@ https://www.zdic.net/
 - https://fanyi.qq.com/
 - https://imiwaapp.com/
 
-MAXZYWK
-- https://www.marxists.org/chinese/index.html
-- https://marxists.architexturez.net/chinese/index.html
-- https://marxists.wikis.cc/chinese/index.html
+> marxists
+> marxist
 
 DAVID-AIREY
 https://www.davidairey.com/
@@ -710,6 +721,13 @@ https://www.sciencemediacentre.org/
 - https://www.thelancet.com/
 - https://pubmed.ncbi.nlm.nih.gov/
 - https://www.nejm.org/
+- https://www.cdc.gov/
+- https://www.esmo.org/
+- https://www.esa.int/
+> - https://chandra.harvard.edu/index.html
+> - https://chandra.harvard.edu/photo/2021/uranus/
+- https://www.nasa.gov/
+
 
 ## 《游戏发行等》
 - https://itch.io/
@@ -758,6 +776,10 @@ https://pixelation.org/
 
 PIXEL-GIF
 https://pixelgif.cn/
+
+pixelartist1
+> - https://tutsplus.com/authors/rene-alejandro-hernandez
+> - https://pixelfreak.com/
 
 PIXIV
 1. https://www.pixiv.net/
