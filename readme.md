@@ -494,6 +494,8 @@ https://phoible.org/
 
 ## 安全
 
+### 沙箱
+
 VIRUSTOTAL（650MB？）
 https://www.virustotal.com/gui/home/upload
 
@@ -521,6 +523,16 @@ https://www.drweb.com/
 在线：
 - https://m.qq.com/security_lab/scans_online.jsp
 - https://scan.shouji.360.cn/
+
+### plugin
+
+- https://easylist.to/
+- [***去除链接重定向***](https://github.com/zhangfangzhou01/remove-link-redirects)
+- [***沉浸式翻译***](https://immersivetranslate.com/)
+- [***禁用 WebRTC***](https://greasyfork.org/zh-CN/scripts/507394-%E7%A6%81%E7%94%A8-webrtc)
+- [***scripts1***](https://gitlink.org.cn/damengzhu/XBrowser-User-Scripts/tree/master/X%E6%B5%8F%E8%A7%88%E5%99%A8%E8%84%9A%E6%9C%AC%E6%95%B4%E7%90%86.md)
+- https://www.eff.org/https-everywhere
+- https://www.dual-subtitles.com/
 
 # 《气象&地》
 
