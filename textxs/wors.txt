@@ -1,10 +1,16 @@
 # 《影视资料》
 
+Lain
+https://fauux.neocities.org/
+
 火星影剧
 https://www.huo720.com/
 
 MYANIMLIST
 https://myanimelist.net/
+
+letterboxd
+https://letterboxd.com/
 
 阿虚同学（这里指参考影视部分）
 - https://axutongxue.com/
@@ -402,6 +408,9 @@ https://www.aizhan.com/
 - https://steampp.net/
 - https://www.dogfight360.com/blog/
 
+- https://web.archive.org/
+- https://archive.org/
+
 ## 《BK》
 
 反代，有原条目链接
@@ -418,18 +427,21 @@ https://f-droid.org/en/packages/com.github.libretube/
 
 # 《阿》
 
-RYZEN
-https://ryzen.cc/
-
-阿虚同学
-- https://axutongxue.com/
-- https://axutongxue.net/
-
 Dogfight360
 https://www.dogfight360.com/blog/
 
 Steam++
 https://steampp.net/
+
+阿虚同学
+- https://axutongxue.com/
+- https://axutongxue.net/
+
+RYZEN
+https://ryzen.cc/
+
+月离
+https://nav.yuelili.com/
 
 邮莓
 https://mailberry.com.cn/
@@ -693,9 +705,6 @@ https://steamdb.info/
 LENSTIP镜头
 https://www.lenstip.com/
 
-GAMEBANANA
-https://gamebanana.com/mods/400833
-
 MERGEEK
 https://mergeek.com/
 
@@ -729,10 +738,16 @@ https://www.sciencemediacentre.org/
 - https://www.nasa.gov/
 
 
-## 《游戏发行等》
+## 《游戏、发行等》
 - https://itch.io/
 - https://www.dlsite.com
 - https://www.gog.com
+
+puzzle
+https://cn.puzzle-sudoku.com/
+
+banana
+https://gamebanana.com/
 
 ## 《地图》
 
@@ -816,8 +831,6 @@ https://tenor.com/zh-CN/view/pixel-art-sound-asleep-tired-gif-14364653
 IRASUTOYA(贴纸素材)
 https://www.irasutoya.com/
 
-LAIN
-https://fauux.neocities.org/
 
 # 《识图搜图》
 
