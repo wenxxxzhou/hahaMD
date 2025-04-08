@@ -12,7 +12,9 @@ https://myanimelist.net/
 letterboxd
 https://letterboxd.com/
 
+
 ## *FanSub G*
+
 
 亿万同人字幕组
 http://ywtrzmz.net/
@@ -55,7 +57,9 @@ https://vmoe.info/
 苏苏发布
 https://susuifa.com/
 
+
 ## *ScreenOnline*
+
 
 NO视频
 https://findno.tv/
@@ -70,7 +74,9 @@ https://gimy.app/
 BREAK影院
 https://www.breakvip.xyz/
 
+
 ## *ScreenDL*
+
 
 音范丝影音集
 - https://www.yinfans.me/
@@ -180,7 +186,9 @@ https://gaoqing.la/
 BTSOW
 https://btsow.motorcycles/tags
 
+
 ## *ドラマOnline⋀DL*
+
 
 韩饭网
 https://www.hanfan.cc/
@@ -195,7 +203,9 @@ https://www.gangjuw.net/index.html
 看看屋
 https://www.kankanwu.com/index.html
 
+
 ## *ドラマOnline*
+
 
 极客影院
 - http://i8k.cc
@@ -203,6 +213,7 @@ https://www.kankanwu.com/index.html
 
 
 ## *アニメOnline⋀DL*
+
 
 age动漫
 - https://github.com/agefanscom/website
@@ -215,7 +226,9 @@ age动漫
 - https://www.agefans.com
 - https://www.age.tv
 
+
 ## *アニメDL*
+
 
 末日动漫资源库
 - 大陆官方同步
@@ -260,7 +273,9 @@ https://www.tsdm39.net/forum.php
 BANGUMI
 https://bgm.tv/
 
+
 ## *ScreenSS*
+
 
 STAGE1
 https://bbs.saraba1st.com/2b/forum.php
@@ -274,7 +289,9 @@ http://www.kissacg.org/
 空想实验室
 http://www.soulbt.cn/
 
+
 ## *SubsDL*
+
 
 多字幕
 https://kitsunekko.net/
@@ -330,7 +347,9 @@ https://topdocumentaryfilms.com/
 VMOE字幕组
 https://vmoe.info/
 
-### *ScreenApp*
+
+## *ScreenApp*
+
 
 影视森林
 - https://yssenlin.app/
@@ -343,7 +362,7 @@ https://lekan.app/
 https://meijuxingqiu.net/
 
 
-### *アニメApp*
+## *アニメApp*
 
 CLICLI动漫
 - www.clicli.app
@@ -363,13 +382,17 @@ ___
 
 ___
 
+
 # *MusUnlock*
+
 
 - https://mp3.aoleiao.com/
 - https://unlock-music-ix.netlify.app/
 - https://tool.whgpc.com/Tools/unlockmusic/
 
-## *MusDL*
+
+# *MusDL*
+
 
 HIFINI
 https://www.hifini.com/
@@ -383,7 +406,9 @@ https://fantombeats.com/
 MIDISHOW(MIDI下载)
 https://www.midishow.com/
 
+
 # *mirrorX*
+
 
 wiki：反代⋀有原条目
 https://zh.wikipedia.wmmirror.live/wiki
@@ -416,6 +441,7 @@ https://www.aizhan.com/
 
 
 # *A!*
+
 
 Dogfight360
 https://www.dogfight360.com/blog/
@@ -482,9 +508,9 @@ FONTS
 跨语言语音量表数据库
 https://phoible.org/
 
-## *Security*
 
-### *Sandbox*
+## *Sandbox*
+
 
 VIRUSTOTAL（650MB？）
 https://www.virustotal.com/gui/home/upload
@@ -514,7 +540,8 @@ https://www.drweb.com/
 - https://m.qq.com/security_lab/scans_online.jsp
 - https://scan.shouji.360.cn/
 
-### *Plugin*
+
+## *Plugin*
 
 - https://easylist.to/
 - [***去除链接重定向***](https://github.com/zhangfangzhou01/remove-link-redirects)
@@ -524,7 +551,9 @@ https://www.drweb.com/
 - https://www.eff.org/https-everywhere
 - https://www.dual-subtitles.com/
 
+
 # *気象*
+
 
 ECMWF
 https://www.ecmwf.int/
@@ -563,7 +592,9 @@ https://www.jma.go.jp/jma/index.html
 中国地震台网
 https://news.ceic.ac.cn/
 
+
 # *eBook*
+
 
 Z
 - https://singlelogin.re/
@@ -651,7 +682,9 @@ https://moreread.me/
 考神杂志馆（收费）
 https://kaoshenzazhi.com/
 
+
 # *i*
+
 
 英文缩略词查询
 https://www.abbreviationfinder.org/cn/
@@ -720,7 +753,9 @@ https://www.topys.cn/
 - http://www.guoxue123.cn/index.htm
 - https://ctext.org
 
-## *SCIENCE*
+
+# *SCIENCE*
+
 
 1. sciencemediacentre
 https://www.sciencemediacentre.org/
@@ -740,7 +775,9 @@ https://www.sciencemediacentre.org/
 - https://www.nasa.gov/
 
 
-## *ゲーム*
+# *ゲーム*
+
+
 - https://itch.io/
 - https://www.dlsite.com
 - https://www.gog.com
@@ -751,7 +788,9 @@ https://cn.puzzle-sudoku.com/
 banana
 https://gamebanana.com/
 
-## *mapping*
+
+# *mapping*
+
 
 天地图
 https://www.tianditu.gov.cn/
@@ -764,18 +803,26 @@ https://www.davidrumsey.com/
 
 数位方舆 <br>
 
+
 # *Color*
+
 
 ADOBE的
 https://color.adobe.com/zh/create/color-wheel
 
-## *Design*
+
+# *Design*
+
+
 1. https://designreviewed.com/
 2. https://eyeondesign.aiga.org/
 3. https://www.jagda.or.jp/
 4. https://ekrits.jp/
 
-## *Magazine*
+
+# *Magazine*
+
+
 1. idea
 http://www.idea-mag.com/en/
 2. eye
@@ -783,7 +830,9 @@ https://www.eyemagazine.com/
 3. revue faire
 https://revue-faire.eu/
 
+
 # *image*
+
 
 电影截图
 https://film-grab.com/
@@ -836,6 +885,7 @@ https://www.irasutoya.com/
 
 # *image4*
 
+
 谷歌识图镜像：
 https://gfsoso.99lb.net/image.html
 
@@ -861,41 +911,6 @@ https://trace.moe/
 4. http://m.naver.com
 5. https://rootabout.com/
 
-# *仅为个人使用*
-# *请勿相信链内任何广告*
 
-___
-
-# AI_ART
-
-1. https://www.midjourney.com/
-2. https://openai.com/dall-e-2/
-3. https://stablediffusionweb.com/
-4. https://huggingface.co/
-5. https://civitai.com/
-6. https://suno.com/about
-
-## AI_SCHOLAR
-https://txyz.ai/
-
-## 智能抠图
-1. Remove.bg
-https://www.remove.bg/zh
-2. Photokit
-https://photokit.com/?lang=zh
-3. 佐糖
-https://picwish.cn/
-4. 傲软抠图
-https://www.apowersoft.cn/remove-background-online
-5. 片刻抠图
-https://www.pickwant.com/home
-
-## 智能人声伴奏分离
-1. 智取伴奏
-http://www.zhiqubz.com/
-2. moises.ai
-https://moises.ai/
-3. https://ezstems.com/
-4. https://thepirat000.github.io/spleeter-api/
-5. http://splitter.ai/
-6. https://melody.ml/
+> # *仅为个人兴趣搜集*
+> # *请勿相信链内任何广告*
