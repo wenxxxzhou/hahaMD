@@ -30,17 +30,20 @@
 
 # *The Screen*
 
-Lain
+LAIN
 https://fauux.neocities.org/
 
 火星影剧
 https://www.huo720.com/
 
-myanime
+MYANIME
 https://myanimelist.net/
 
-letterboxd
+LETTERBOXD
 https://letterboxd.com/
+
+BANGUMI
+https://bgm.tv/
 
 
 ## *FanSub G*
@@ -92,11 +95,11 @@ https://susuifa.com/
 
 
 NO视频
-https://findno.tv/
-https://www.novipnoad.com/
-https://www.novipnoad.net/
-https://www.novipnoad.cc/
-https://www.novipnoad.us/
+- https://findno.tv/
+- https://www.novipnoad.com/
+- https://www.novipnoad.net/
+- https://www.novipnoad.cc/
+- https://www.novipnoad.us/
 
 剧迷
 https://gimy.app/
@@ -127,7 +130,7 @@ RARGB
 - https://rargb.to/movies/
 - https://rarbg.unblockninja.com/movies/
 
-noR站
+TGX
 - https://tgx.rs/
 
 YTS
@@ -155,9 +158,6 @@ https://eztv.unblockit.date/
 
 1377X
 https://www.1377x.to/
-
-TGX
-https://tgx.rs/
 
 SKRBT
 https://skrbtgb.top/
@@ -245,7 +245,7 @@ https://www.kankanwu.com/index.html
 ## *アニメOnline⋀DL*
 
 
-age动漫
+AGE动漫
 - https://github.com/agefanscom/website
 - https://rentry.org/agefans
 - https://agefans.org/
@@ -268,7 +268,7 @@ https://share.acgnx.net/
 蜜柑计划
 https://mikanani.me/
 
-x漫
+X漫
 - http://www.comicat.org/
 - http://www.miobt.com/
 - http://www.kisssub.org/
@@ -299,9 +299,6 @@ https://skyeysnow.com/
 
 天使动漫
 https://www.tsdm39.net/forum.php
-
-BANGUMI
-https://bgm.tv/
 
 
 ## *ScreenSS*
@@ -374,7 +371,7 @@ https://www.addic7ed.com/
 纪录片字幕
 https://topdocumentaryfilms.com/
 
-VMOE字幕组
+VMOE
 https://vmoe.info/
 
 
@@ -428,41 +425,42 @@ https://www.hifini.com/
 果核音乐
 https://music.ghxi.com/
 
-BEATS正版购买下载
+BEATS_BUY
 https://fantombeats.com/
 
-MIDISHOW(MIDI下载)
+MIDISHOW_DL
 https://www.midishow.com/
 
 
 # *mirrorX*
 
 
-wiki：反代⋀有原条目
+WIKI反代⋀有原条目
 https://zh.wikipedia.wmmirror.live/wiki
 
-searX
+SEARX
 https://searx.space/
 
-invidious_ytb
+YG
 https://github.com/iv-org/invidious
 
-invidious_ytb-list
+YG-L
 https://invidious.io/
 
-twi_mirror-list
+TUI-L
 https://github.com/zedeus/nitter/wiki/Instances
 
 
 # *A!*
 
+きおく
 - https://web.archive.org/
 - https://archive.org/
 
-Dogfight360
+Y
 https://www.dogfight360.com/blog/
 
-Steam++
+V
 https://steampp.net/
 
 阿虚同学
@@ -486,10 +484,10 @@ https://limbopro.com/
 - http://www.samohung.jp/
 - http://www.dsg4.com/04/extra/index.html
 
-第三方礼品卡：
+第三方礼品卡
 1. https://www.oyunfor.com/
 
-第三方APK
+APKs
 1. https://www.apkmirror.com/
 2. https://apkpure.com/
 3. https://en.aptoide.com/
@@ -521,6 +519,7 @@ https://atlasti.com/
 FONTS
 - https://dejavu-fonts.github.io/
 
+站
 - https://www.aizhan.com/
 - https://tool.chinaz.com/
 
@@ -579,10 +578,10 @@ https://www.windy.com/
 
 [***earth***](https://earth.nullschool.net/zh-cn/#:~:text=%E9%80%9A%E8%BF%87%E8%B6%85%E7%BA%A7%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9A%84%E9%A2%84%E5%91%8A)
 
-meteologix
+METEOLOGIX
 https://meteologix.com/cn
 
-meteoblue
+METEOBLUE
 https://www.meteoblue.com/en
 
 中国气象局国家气候中心
@@ -743,17 +742,14 @@ https://identitydesigned.com/
 theocean
 https://www.oyunfor.com/
 
-SCI-HUB
+SCIHUB
 http://www.sci-hub.ren/
 
-LIBRARY-GENESIS
+LIBRARYGENESIS
 https://librarygenesis.pro/
 
-SINGLE-LOGIN
+SINGLELOGIN
 https://singlelogin.org/
-
-STEAM-DB
-https://steamdb.info/
 
 LENSTIP镜头
 https://www.lenstip.com/
@@ -764,6 +760,7 @@ https://mergeek.com/
 TOPYS
 https://www.topys.cn/
 
+SPACE
 - https://stellarium.org/zh_CN/
 - https://www.esmo.org/
 
@@ -795,16 +792,18 @@ https://www.sciencemediacentre.org/
 
 ## *ゲーム*
 
-
 - https://itch.io/
 - https://www.dlsite.com
 - https://www.gog.com
 
-puzzle
+PUZZLE
 https://cn.puzzle-sudoku.com/
 
-banana
+BANANA
 https://gamebanana.com/
+
+STEAMDB
+https://steamdb.info/
 
 
 ## *mapping*
@@ -825,7 +824,7 @@ https://www.davidrumsey.com/
 ## *Color*
 
 
-ADOBE的
+ADOBECOLOR
 https://color.adobe.com/zh/create/color-wheel
 
 
