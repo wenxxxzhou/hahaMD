@@ -36,52 +36,54 @@ https://fauux.neocities.org/
 火星影剧
 https://www.huo720.com/
 
-MYANIME
+MYANIMELIST
 https://myanimelist.net/
 
 LETTERBOXD
 https://letterboxd.com/
 
 BANGUMI
-https://bgm.tv/
+- https://bangumi.tv/
+- https://bgm.tv/
+- https://chii.in/
 
 
 ## *FanSub G*
 
 
-亿万同人字幕组
+亿万同人
 http://ywtrzmz.net/
 
-弯弯字幕组
+弯弯
 http://www.wanwansub.com/
 
 FIX字幕侠
 http://www.zimuxia.cn/
 
-NEW字幕组
+NEW
 - https://nzmz.xyz/index.html
 - https://newzmz.com/index.html
 
-幻月字幕组
+幻月
 https://www.huanyuezmz.site/
 
-诸神字幕组
+诸神
 https://subs.kamigami.org/category/drama
 
-东京不够热SUB
+东京不够热
 https://www.tokyonothot.com/
 
-深影字幕组
+深影
 https://sub.shinybbs.vip/
 
-冰冰字幕组
+冰冰
 https://www.icezmz.com/
 
-RRYS字幕组
+RRYS
 - https://www.yysub.net/
 - https://yyets.click/home
 
-动漫国字幕组
+动漫国
 https://www.dmguo.org/forum.php
 
 VMOE
@@ -118,10 +120,10 @@ https://www.breakvip.xyz/
 霸王龙压制组
 https://t-rex.tzfile.com/
 
-分派电影（关站纪念）
+分派电影!!
 https://ifenpaidy.com/
 
-RARGB
+RARGB!!
 > - https://rarbgaccess.org/torrents.php
 > - https://rarbgmirror.org/torrents.php
 > - https://rarbgmirror.com/index70.php
@@ -210,7 +212,7 @@ https://ppxzy.me/
 UUMP4
 https://www.uump4.cc/
 
-中国高清网
+高清网
 https://gaoqing.la/
 
 BTSOW
@@ -310,7 +312,7 @@ https://bbs.saraba1st.com/2b/forum.php
 KOMICA
 https://www.komica.org/
 
-KISS
+KISSACG
 http://www.kissacg.org/
 
 空想实验室
@@ -338,7 +340,7 @@ SUBHD
 - https://subhdtw.com
 - https://subhd.me
 
-日菁字幕组
+日菁
 http://www.mytvbt.net/forumdisplay.php?fid=6
 
 ACG字幕
@@ -347,10 +349,10 @@ https://bbs.acgrip.com/
 射手网（伪）
 https://assrt.net/
 
-A4K字幕
+A4K
 https://www.a4k.net/
 
-R3字幕
+R3
 https://www.r3sub.com
 
 国外字幕（含中文字幕）
@@ -388,7 +390,7 @@ https://lekan.app/
 美剧星球
 https://meijuxingqiu.net/
 
-CLICLI动漫
+CLICLI
 - www.clicli.app
 - www.clicli.fun
 - www.clicli.lol
@@ -453,14 +455,14 @@ https://github.com/zedeus/nitter/wiki/Instances
 
 # *A!*
 
-きおく
+キオク
 - https://web.archive.org/
 - https://archive.org/
 
-Y
+302
 https://www.dogfight360.com/blog/
 
-V
+++
 https://steampp.net/
 
 阿虚同学
@@ -518,6 +520,7 @@ https://atlasti.com/
 
 FONTS
 - https://dejavu-fonts.github.io/
+- [***珊瑚さんご***](https://tanukifont.com/sango/?continueFlag=7b3544bc5c4e1160be2e9fe5a2407f20)
 
 站
 - https://www.aizhan.com/
@@ -614,17 +617,16 @@ https://news.ceic.ac.cn/
 Z
 - https://singlelogin.re/
 - https://zlibrary-africa.se/
-
-Z镜像1
-- https://v3.zhelper.net/
-- https://www.zhelper.net/
-- https://z.yibook.org/
-
-Z镜像2
-https://looks.wang/g.html
+> 1. https://v3.zhelper.net/
+> 2. https://www.zhelper.net/
+> 3. https://z.yibook.org/
+> 4. https://looks.wang/g.html
 
 LIBGEN
 https://libgen.gs/
+
+译言古登堡计划
+http://g.yeeyan.org/
 
 鸠摩搜书
 https://www.jiumodiary.com/
@@ -639,9 +641,6 @@ https://books.andrewjr.workers.dev/0:/
 - https://www.bandubook.com/
 - https://pup6.yunzhan365.com/
 - https://ebook.hep.com.cn/ebooks/index.html#/
-
-译言古登堡计划
-http://g.yeeyan.org/
 
 LOREFREE去中心化免费电子书共享社区
 https://ebook2.lorefree.com/
@@ -768,6 +767,12 @@ SPACE
 - http://www.guoxue123.cn/index.htm
 - https://ctext.org
 
+ISFDB
+https://www.isfdb.org/
+
+鲁迅
+http://www.luxunmuseum.com.cn/cx/
+
 
 ## *SCIENCE*
 
@@ -805,6 +810,9 @@ https://gamebanana.com/
 STEAMDB
 https://steamdb.info/
 
+TIME
+https://howlongtobeat.com/
+
 
 ## *mapping*
 
@@ -840,11 +848,11 @@ https://color.adobe.com/zh/create/color-wheel
 ### *Magazine*
 
 
-1. idea
+1. IDEA
 http://www.idea-mag.com/en/
-2. eye
+2. EYE
 https://www.eyemagazine.com/
-3. revue faire
+3. REVUE-FAIRE
 https://revue-faire.eu/
 
 
@@ -857,12 +865,13 @@ https://film-grab.com/
 老像素网站（已归档）
 https://pixelation.org/
 
-PIXEL-GIF
+PIXELGIF
 https://pixelgif.cn/
 
 pixelartist1
-> - https://tutsplus.com/authors/rene-alejandro-hernandez
-> - https://pixelfreak.com/
+> 1. https://tutsplus.com/authors/rene-alejandro-hernandez
+> 2. https://pixelfreak.com/
+> 3. https://www.lymanli.com/pixelart/horizontal/
 
 PIXIV
 1. https://www.pixiv.net/
