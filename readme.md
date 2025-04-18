@@ -466,8 +466,8 @@ https://www.dogfight360.com/blog/
 https://steampp.net/
 
 阿虚同学
-- https://axutongxue.com/
-- https://axutongxue.net/
+1. https://axutongxue.com/
+2. https://axutongxue.net2.
 
 RYZEN
 https://ryzen.cc/
@@ -482,35 +482,34 @@ https://mailberry.com.cn/
 https://limbopro.com/
 
 押本佑二（yuji oshimoto|04@dsg4.com）
-- http://04.jp.org/
-- http://www.samohung.jp/
-- http://www.dsg4.com/04/extra/index.html
+1. http://04.jp.org/
+2. http://www.samohung.jp/
+3. http://www.dsg4.com/04/extra/index.html
 
 第三方礼品卡
 1. https://www.oyunfor.com/
 
 APKs
-1. https://www.apkmirror.com/
-2. https://apkpure.com/
-3. https://en.aptoide.com/
-4. https://www.apkmonk.com/
-5. https://f-droid.org/en/
-6. https://www.malavida.com/es/android/
-7. https://www.uptodown.com/android
-8. https://download.cnet.com/android/
-9. https://vmoe.info/
+- https://www.apkmirror.com/
+- https://apkpure.com/
+- https://en.aptoide.com/
+- https://www.apkmonk.com/
+- https://f-droid.org/en/
+- https://www.malavida.com/es/android/
+- https://www.uptodown.com/android
+- https://download.cnet.com/android/
 
-玩儿机
+玩儿
 - https://asmz.wss.cc/article/detail/forum.release-apk.com/
 - https://forum.mobilism.org/search.php?author_id=778004&sr=posts
 - https://4pda.to/forum/index.php?act=search&source=pst&noform=1&username=OsitKP
-1. https://forum.xda-developers.com/
-2. https://forum.release-apk.com/memberlist.php?mode=viewprofile&u=49&sid=85996f3e236a1c0351f598261e5fac4b
-3. https://4pda.to/forum/index.php?act=search&source=pst&noform=1&username=OsitKP
-4. https://forum.mobilism.org/search.php?st=0&sk=t&sd=d&sr=topics&author=KirIif%27&fid%5B%5D=398&sf=firstpost
-5. https://forum.mobilism.org/search.php?keywords=&terms=all&author=derrin&sc=1&sf=titleonly&sr=topics&sk=t&sd=d&st=0&ch=300&t=0&submit=Search
-6. https://www.423down.com/
-7. https://appshare.vip/
+> 1. https://forum.xda-developers.com/
+> 2. https://forum.release-apk.com/memberlist.php?mode=viewprofile&u=49&sid=85996f3e236a1c0351f598261e5fac4b
+> 3. https://4pda.to/forum/index.php?act=search&source=pst&noform=1&username=OsitKP
+> 4. https://forum.mobilism.org/search.php?st=0&sk=t&sd=d&sr=topics&author=KirIif%27&fid%5B%5D=398&sf=firstpost
+> 5. https://forum.mobilism.org/search.php?keywords=&terms=all&author=derrin&sc=1&sf=titleonly&sr=topics&sk=t&sd=d&st=0&ch=300&t=0&submit=Search
+- https://www.423down.com/
+- https://appshare.vip/
 
 DOWNSUB(流媒体字幕轨下载)
 https://downsub.com/
@@ -523,6 +522,8 @@ FONTS
 - [***珊瑚さんご***](https://tanukifont.com/sango/?continueFlag=7b3544bc5c4e1160be2e9fe5a2407f20)
 
 站
+- https://dns.iui.im/
+- https://dns.icoa.cn/
 - https://www.aizhan.com/
 - https://tool.chinaz.com/
 
@@ -719,8 +720,8 @@ https://www.zdic.net/
 - https://gogen-allguide.com/
 - https://www.ctrans.org/
 - https://www.aozora.gr.jp/
-> - http://sakura-paris.org/
-> - https://annas-archive.org/search?q=%E5%BA%83%E8%BE%9E%E8%8B%91
+> 1. http://sakura-paris.org/
+> 2. https://annas-archive.org/search?q=%E5%BA%83%E8%BE%9E%E8%8B%91
 - https://fanyi.qq.com/
 - https://imiwaapp.com/
 
@@ -790,8 +791,8 @@ https://www.sciencemediacentre.org/
 - https://www.cdc.gov/
 - https://www.esmo.org/
 - https://www.esa.int/
-> - https://chandra.harvard.edu/index.html
-> - https://chandra.harvard.edu/photo/2021/uranus/
+1. https://chandra.harvard.edu/index.html
+2. https://chandra.harvard.edu/photo/2021/uranus/
 - https://www.nasa.gov/
 
 
@@ -839,20 +840,20 @@ https://color.adobe.com/zh/create/color-wheel
 ### *Design*
 
 
-1. https://designreviewed.com/
-2. https://eyeondesign.aiga.org/
-3. https://www.jagda.or.jp/
-4. https://ekrits.jp/
+- https://designreviewed.com/
+- https://eyeondesign.aiga.org/
+- https://www.jagda.or.jp/
+- https://ekrits.jp/
 
 
 ### *Magazine*
 
 
-1. IDEA
+- IDEA
 http://www.idea-mag.com/en/
-2. EYE
+- EYE
 https://www.eyemagazine.com/
-3. REVUE-FAIRE
+- REVUE-FAIRE
 https://revue-faire.eu/
 
 
@@ -868,16 +869,16 @@ https://pixelation.org/
 PIXELGIF
 https://pixelgif.cn/
 
-pixelartist1
-> 1. https://tutsplus.com/authors/rene-alejandro-hernandez
-> 2. https://pixelfreak.com/
-> 3. https://www.lymanli.com/pixelart/horizontal/
+pixelartist
+- https://tutsplus.com/authors/rene-alejandro-hernandez
+- https://pixelfreak.com/
+- https://www.lymanli.com/pixelart/horizontal/
 
 PIXIV
-1. https://www.pixiv.net/
-2. https://pxvr.xyz/
-3. https://pixivic.com/
-4. https://pixiv.moe/
+https://www.pixiv.net/
+> - https://pxvr.xyz/
+> - https://pixivic.com/
+> - https://pixiv.moe/
 
 ARTSTATION
 https://www.artstation.com/
@@ -888,7 +889,7 @@ https://www.ggac.com/
 LOSPEC-PIXEL-ART
 https://lospec.com/
 
-Cnu视觉联盟
+CNU视觉联盟
 http://www.cnu.cc/
 
 马格南
@@ -912,30 +913,30 @@ https://www.irasutoya.com/
 # *image4*
 
 
-谷歌识图镜像：
+guruguru识图镜像
 https://gfsoso.99lb.net/image.html
 
-以图搜番：
+以图搜番
 https://trace.moe/
 
-二次元&插画：
-1. https://saucenao.com/
-2. https://ascii2d.net/
-3. http://iqdb.org/
-4. https://3d.iqdb.org/
-5. https://www.everypixel.com/
-7. http://tbib.org
-6. http://soutubot.moe
+搜插画
+- https://saucenao.com/
+- https://ascii2d.net/
+- http://iqdb.org/
+- https://3d.iqdb.org/
+- https://www.everypixel.com/
+- http://tbib.org
+- http://soutubot.moe
 
-壁纸：
-1. https://wallhaven.cc/
+搜壁纸
+https://wallhaven.cc/
 
-其他：
-1. http://tineye.com
-2. http://gelbooru.com
-3. http://zerochan.net
-4. http://m.naver.com
-5. https://rootabout.com/
+搜其他
+- http://tineye.com
+- http://gelbooru.com
+- http://zerochan.net
+- http://m.naver.com
+- https://rootabout.com/
 
 
 > # *仅为个人兴趣搜集*

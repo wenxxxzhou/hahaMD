@@ -30,55 +30,60 @@
 
 # *The Screen*
 
-Lain
+LAIN
 https://fauux.neocities.org/
 
 火星影剧
 https://www.huo720.com/
 
-myanime
+MYANIMELIST
 https://myanimelist.net/
 
-letterboxd
+LETTERBOXD
 https://letterboxd.com/
+
+BANGUMI
+- https://bangumi.tv/
+- https://bgm.tv/
+- https://chii.in/
 
 
 ## *FanSub G*
 
 
-亿万同人字幕组
+亿万同人
 http://ywtrzmz.net/
 
-弯弯字幕组
+弯弯
 http://www.wanwansub.com/
 
 FIX字幕侠
 http://www.zimuxia.cn/
 
-NEW字幕组
+NEW
 - https://nzmz.xyz/index.html
 - https://newzmz.com/index.html
 
-幻月字幕组
+幻月
 https://www.huanyuezmz.site/
 
-诸神字幕组
+诸神
 https://subs.kamigami.org/category/drama
 
-东京不够热SUB
+东京不够热
 https://www.tokyonothot.com/
 
-深影字幕组
+深影
 https://sub.shinybbs.vip/
 
-冰冰字幕组
+冰冰
 https://www.icezmz.com/
 
-RRYS字幕组
+RRYS
 - https://www.yysub.net/
 - https://yyets.click/home
 
-动漫国字幕组
+动漫国
 https://www.dmguo.org/forum.php
 
 VMOE
@@ -92,11 +97,11 @@ https://susuifa.com/
 
 
 NO视频
-https://findno.tv/
-https://www.novipnoad.com/
-https://www.novipnoad.net/
-https://www.novipnoad.cc/
-https://www.novipnoad.us/
+- https://findno.tv/
+- https://www.novipnoad.com/
+- https://www.novipnoad.net/
+- https://www.novipnoad.cc/
+- https://www.novipnoad.us/
 
 剧迷
 https://gimy.app/
@@ -115,10 +120,10 @@ https://www.breakvip.xyz/
 霸王龙压制组
 https://t-rex.tzfile.com/
 
-分派电影（关站纪念）
+分派电影!!
 https://ifenpaidy.com/
 
-RARGB
+RARGB!!
 > - https://rarbgaccess.org/torrents.php
 > - https://rarbgmirror.org/torrents.php
 > - https://rarbgmirror.com/index70.php
@@ -127,7 +132,7 @@ RARGB
 - https://rargb.to/movies/
 - https://rarbg.unblockninja.com/movies/
 
-noR站
+TGX
 - https://tgx.rs/
 
 YTS
@@ -155,9 +160,6 @@ https://eztv.unblockit.date/
 
 1377X
 https://www.1377x.to/
-
-TGX
-https://tgx.rs/
 
 SKRBT
 https://skrbtgb.top/
@@ -210,7 +212,7 @@ https://ppxzy.me/
 UUMP4
 https://www.uump4.cc/
 
-中国高清网
+高清网
 https://gaoqing.la/
 
 BTSOW
@@ -245,7 +247,7 @@ https://www.kankanwu.com/index.html
 ## *アニメOnline⋀DL*
 
 
-age动漫
+AGE动漫
 - https://github.com/agefanscom/website
 - https://rentry.org/agefans
 - https://agefans.org/
@@ -268,7 +270,7 @@ https://share.acgnx.net/
 蜜柑计划
 https://mikanani.me/
 
-x漫
+X漫
 - http://www.comicat.org/
 - http://www.miobt.com/
 - http://www.kisssub.org/
@@ -300,9 +302,6 @@ https://skyeysnow.com/
 天使动漫
 https://www.tsdm39.net/forum.php
 
-BANGUMI
-https://bgm.tv/
-
 
 ## *ScreenSS*
 
@@ -313,7 +312,7 @@ https://bbs.saraba1st.com/2b/forum.php
 KOMICA
 https://www.komica.org/
 
-KISS
+KISSACG
 http://www.kissacg.org/
 
 空想实验室
@@ -341,7 +340,7 @@ SUBHD
 - https://subhdtw.com
 - https://subhd.me
 
-日菁字幕组
+日菁
 http://www.mytvbt.net/forumdisplay.php?fid=6
 
 ACG字幕
@@ -350,10 +349,10 @@ https://bbs.acgrip.com/
 射手网（伪）
 https://assrt.net/
 
-A4K字幕
+A4K
 https://www.a4k.net/
 
-R3字幕
+R3
 https://www.r3sub.com
 
 国外字幕（含中文字幕）
@@ -374,7 +373,7 @@ https://www.addic7ed.com/
 纪录片字幕
 https://topdocumentaryfilms.com/
 
-VMOE字幕组
+VMOE
 https://vmoe.info/
 
 
@@ -391,7 +390,7 @@ https://lekan.app/
 美剧星球
 https://meijuxingqiu.net/
 
-CLICLI动漫
+CLICLI
 - www.clicli.app
 - www.clicli.fun
 - www.clicli.lol
@@ -428,46 +427,47 @@ https://www.hifini.com/
 果核音乐
 https://music.ghxi.com/
 
-BEATS正版购买下载
+BEATS_BUY
 https://fantombeats.com/
 
-MIDISHOW(MIDI下载)
+MIDISHOW_DL
 https://www.midishow.com/
 
 
 # *mirrorX*
 
 
-wiki：反代⋀有原条目
+WIKI反代⋀有原条目
 https://zh.wikipedia.wmmirror.live/wiki
 
-searX
+SEARX
 https://searx.space/
 
-invidious_ytb
+YG
 https://github.com/iv-org/invidious
 
-invidious_ytb-list
+YG-L
 https://invidious.io/
 
-twi_mirror-list
+TUI-L
 https://github.com/zedeus/nitter/wiki/Instances
 
 
 # *A!*
 
+キオク
 - https://web.archive.org/
 - https://archive.org/
 
-Dogfight360
+302
 https://www.dogfight360.com/blog/
 
-Steam++
+++
 https://steampp.net/
 
 阿虚同学
-- https://axutongxue.com/
-- https://axutongxue.net/
+1. https://axutongxue.com/
+2. https://axutongxue.net2.
 
 RYZEN
 https://ryzen.cc/
@@ -482,35 +482,34 @@ https://mailberry.com.cn/
 https://limbopro.com/
 
 押本佑二（yuji oshimoto|04@dsg4.com）
-- http://04.jp.org/
-- http://www.samohung.jp/
-- http://www.dsg4.com/04/extra/index.html
+1. http://04.jp.org/
+2. http://www.samohung.jp/
+3. http://www.dsg4.com/04/extra/index.html
 
-第三方礼品卡：
+第三方礼品卡
 1. https://www.oyunfor.com/
 
-第三方APK
-1. https://www.apkmirror.com/
-2. https://apkpure.com/
-3. https://en.aptoide.com/
-4. https://www.apkmonk.com/
-5. https://f-droid.org/en/
-6. https://www.malavida.com/es/android/
-7. https://www.uptodown.com/android
-8. https://download.cnet.com/android/
-9. https://vmoe.info/
+APKs
+- https://www.apkmirror.com/
+- https://apkpure.com/
+- https://en.aptoide.com/
+- https://www.apkmonk.com/
+- https://f-droid.org/en/
+- https://www.malavida.com/es/android/
+- https://www.uptodown.com/android
+- https://download.cnet.com/android/
 
-玩儿机
+玩儿
 - https://asmz.wss.cc/article/detail/forum.release-apk.com/
 - https://forum.mobilism.org/search.php?author_id=778004&sr=posts
 - https://4pda.to/forum/index.php?act=search&source=pst&noform=1&username=OsitKP
-1. https://forum.xda-developers.com/
-2. https://forum.release-apk.com/memberlist.php?mode=viewprofile&u=49&sid=85996f3e236a1c0351f598261e5fac4b
-3. https://4pda.to/forum/index.php?act=search&source=pst&noform=1&username=OsitKP
-4. https://forum.mobilism.org/search.php?st=0&sk=t&sd=d&sr=topics&author=KirIif%27&fid%5B%5D=398&sf=firstpost
-5. https://forum.mobilism.org/search.php?keywords=&terms=all&author=derrin&sc=1&sf=titleonly&sr=topics&sk=t&sd=d&st=0&ch=300&t=0&submit=Search
-6. https://www.423down.com/
-7. https://appshare.vip/
+> 1. https://forum.xda-developers.com/
+> 2. https://forum.release-apk.com/memberlist.php?mode=viewprofile&u=49&sid=85996f3e236a1c0351f598261e5fac4b
+> 3. https://4pda.to/forum/index.php?act=search&source=pst&noform=1&username=OsitKP
+> 4. https://forum.mobilism.org/search.php?st=0&sk=t&sd=d&sr=topics&author=KirIif%27&fid%5B%5D=398&sf=firstpost
+> 5. https://forum.mobilism.org/search.php?keywords=&terms=all&author=derrin&sc=1&sf=titleonly&sr=topics&sk=t&sd=d&st=0&ch=300&t=0&submit=Search
+- https://www.423down.com/
+- https://appshare.vip/
 
 DOWNSUB(流媒体字幕轨下载)
 https://downsub.com/
@@ -520,7 +519,11 @@ https://atlasti.com/
 
 FONTS
 - https://dejavu-fonts.github.io/
+- [***珊瑚さんご***](https://tanukifont.com/sango/?continueFlag=7b3544bc5c4e1160be2e9fe5a2407f20)
 
+站
+- https://dns.iui.im/
+- https://dns.icoa.cn/
 - https://www.aizhan.com/
 - https://tool.chinaz.com/
 
@@ -579,10 +582,10 @@ https://www.windy.com/
 
 [***earth***](https://earth.nullschool.net/zh-cn/#:~:text=%E9%80%9A%E8%BF%87%E8%B6%85%E7%BA%A7%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9A%84%E9%A2%84%E5%91%8A)
 
-meteologix
+METEOLOGIX
 https://meteologix.com/cn
 
-meteoblue
+METEOBLUE
 https://www.meteoblue.com/en
 
 中国气象局国家气候中心
@@ -615,17 +618,16 @@ https://news.ceic.ac.cn/
 Z
 - https://singlelogin.re/
 - https://zlibrary-africa.se/
-
-Z镜像1
-- https://v3.zhelper.net/
-- https://www.zhelper.net/
-- https://z.yibook.org/
-
-Z镜像2
-https://looks.wang/g.html
+> 1. https://v3.zhelper.net/
+> 2. https://www.zhelper.net/
+> 3. https://z.yibook.org/
+> 4. https://looks.wang/g.html
 
 LIBGEN
 https://libgen.gs/
+
+译言古登堡计划
+http://g.yeeyan.org/
 
 鸠摩搜书
 https://www.jiumodiary.com/
@@ -640,9 +642,6 @@ https://books.andrewjr.workers.dev/0:/
 - https://www.bandubook.com/
 - https://pup6.yunzhan365.com/
 - https://ebook.hep.com.cn/ebooks/index.html#/
-
-译言古登堡计划
-http://g.yeeyan.org/
 
 LOREFREE去中心化免费电子书共享社区
 https://ebook2.lorefree.com/
@@ -721,8 +720,8 @@ https://www.zdic.net/
 - https://gogen-allguide.com/
 - https://www.ctrans.org/
 - https://www.aozora.gr.jp/
-> - http://sakura-paris.org/
-> - https://annas-archive.org/search?q=%E5%BA%83%E8%BE%9E%E8%8B%91
+> 1. http://sakura-paris.org/
+> 2. https://annas-archive.org/search?q=%E5%BA%83%E8%BE%9E%E8%8B%91
 - https://fanyi.qq.com/
 - https://imiwaapp.com/
 
@@ -743,17 +742,14 @@ https://identitydesigned.com/
 theocean
 https://www.oyunfor.com/
 
-SCI-HUB
+SCIHUB
 http://www.sci-hub.ren/
 
-LIBRARY-GENESIS
+LIBRARYGENESIS
 https://librarygenesis.pro/
 
-SINGLE-LOGIN
+SINGLELOGIN
 https://singlelogin.org/
-
-STEAM-DB
-https://steamdb.info/
 
 LENSTIP镜头
 https://www.lenstip.com/
@@ -764,12 +760,19 @@ https://mergeek.com/
 TOPYS
 https://www.topys.cn/
 
+SPACE
 - https://stellarium.org/zh_CN/
 - https://www.esmo.org/
 
 国学哲学
 - http://www.guoxue123.cn/index.htm
 - https://ctext.org
+
+ISFDB
+https://www.isfdb.org/
+
+鲁迅
+http://www.luxunmuseum.com.cn/cx/
 
 
 ## *SCIENCE*
@@ -788,23 +791,28 @@ https://www.sciencemediacentre.org/
 - https://www.cdc.gov/
 - https://www.esmo.org/
 - https://www.esa.int/
-> - https://chandra.harvard.edu/index.html
-> - https://chandra.harvard.edu/photo/2021/uranus/
+1. https://chandra.harvard.edu/index.html
+2. https://chandra.harvard.edu/photo/2021/uranus/
 - https://www.nasa.gov/
 
 
 ## *ゲーム*
 
-
 - https://itch.io/
 - https://www.dlsite.com
 - https://www.gog.com
 
-puzzle
+PUZZLE
 https://cn.puzzle-sudoku.com/
 
-banana
+BANANA
 https://gamebanana.com/
+
+STEAMDB
+https://steamdb.info/
+
+TIME
+https://howlongtobeat.com/
 
 
 ## *mapping*
@@ -825,27 +833,27 @@ https://www.davidrumsey.com/
 ## *Color*
 
 
-ADOBE的
+ADOBECOLOR
 https://color.adobe.com/zh/create/color-wheel
 
 
 ### *Design*
 
 
-1. https://designreviewed.com/
-2. https://eyeondesign.aiga.org/
-3. https://www.jagda.or.jp/
-4. https://ekrits.jp/
+- https://designreviewed.com/
+- https://eyeondesign.aiga.org/
+- https://www.jagda.or.jp/
+- https://ekrits.jp/
 
 
 ### *Magazine*
 
 
-1. idea
+- IDEA
 http://www.idea-mag.com/en/
-2. eye
+- EYE
 https://www.eyemagazine.com/
-3. revue faire
+- REVUE-FAIRE
 https://revue-faire.eu/
 
 
@@ -858,18 +866,19 @@ https://film-grab.com/
 老像素网站（已归档）
 https://pixelation.org/
 
-PIXEL-GIF
+PIXELGIF
 https://pixelgif.cn/
 
-pixelartist1
-> - https://tutsplus.com/authors/rene-alejandro-hernandez
-> - https://pixelfreak.com/
+pixelartist
+- https://tutsplus.com/authors/rene-alejandro-hernandez
+- https://pixelfreak.com/
+- https://www.lymanli.com/pixelart/horizontal/
 
 PIXIV
-1. https://www.pixiv.net/
-2. https://pxvr.xyz/
-3. https://pixivic.com/
-4. https://pixiv.moe/
+https://www.pixiv.net/
+> - https://pxvr.xyz/
+> - https://pixivic.com/
+> - https://pixiv.moe/
 
 ARTSTATION
 https://www.artstation.com/
@@ -880,7 +889,7 @@ https://www.ggac.com/
 LOSPEC-PIXEL-ART
 https://lospec.com/
 
-Cnu视觉联盟
+CNU视觉联盟
 http://www.cnu.cc/
 
 马格南
@@ -904,30 +913,30 @@ https://www.irasutoya.com/
 # *image4*
 
 
-谷歌识图镜像：
+guruguru识图镜像
 https://gfsoso.99lb.net/image.html
 
-以图搜番：
+以图搜番
 https://trace.moe/
 
-二次元&插画：
-1. https://saucenao.com/
-2. https://ascii2d.net/
-3. http://iqdb.org/
-4. https://3d.iqdb.org/
-5. https://www.everypixel.com/
-7. http://tbib.org
-6. http://soutubot.moe
+搜插画
+- https://saucenao.com/
+- https://ascii2d.net/
+- http://iqdb.org/
+- https://3d.iqdb.org/
+- https://www.everypixel.com/
+- http://tbib.org
+- http://soutubot.moe
 
-壁纸：
-1. https://wallhaven.cc/
+搜壁纸
+https://wallhaven.cc/
 
-其他：
-1. http://tineye.com
-2. http://gelbooru.com
-3. http://zerochan.net
-4. http://m.naver.com
-5. https://rootabout.com/
+搜其他
+- http://tineye.com
+- http://gelbooru.com
+- http://zerochan.net
+- http://m.naver.com
+- https://rootabout.com/
 
 
 > # *仅为个人兴趣搜集*
