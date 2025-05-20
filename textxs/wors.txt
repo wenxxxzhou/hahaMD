@@ -521,7 +521,8 @@ FONTS
 - https://dejavu-fonts.github.io/
 - [***珊瑚さんご***](https://tanukifont.com/sango/?continueFlag=7b3544bc5c4e1160be2e9fe5a2407f20)
 
-站
+WEB5
+- https://www.diggui.com/
 - https://dns.iui.im/
 - https://dns.icoa.cn/
 - https://www.aizhan.com/
@@ -774,6 +775,9 @@ https://www.isfdb.org/
 鲁迅
 http://www.luxunmuseum.com.cn/cx/
 
+INFO
+- https://neal.fun/
+
 
 ## *SCIENCE*
 
@@ -913,13 +917,16 @@ https://www.irasutoya.com/
 # *image4*
 
 
-guruguru识图镜像
+guruguru-IMGMirror
 https://gfsoso.99lb.net/image.html
 
-以图搜番
+IMG-ANI
 https://trace.moe/
 
-搜插画
+IMG-FILM
+https://shotdeck.com/
+
+IMG-il
 - https://saucenao.com/
 - https://ascii2d.net/
 - http://iqdb.org/
@@ -928,10 +935,10 @@ https://trace.moe/
 - http://tbib.org
 - http://soutubot.moe
 
-搜壁纸
+IMG-WALLPAPER
 https://wallhaven.cc/
 
-搜其他
+IMG-MORE
 - http://tineye.com
 - http://gelbooru.com
 - http://zerochan.net
